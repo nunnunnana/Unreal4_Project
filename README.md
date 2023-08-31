@@ -44,3 +44,25 @@ Qube를 인덱스 n번째의 Scene Component에 Attach하고 인덱스에 +1을 
  
 ![Quiz_2](https://github.com/nunnunnana/Unreal4_Project/assets/99165741/21a4a925-75f1-4186-b916-d903ec15e32d)
 
+***
+## 2. 충돌 후 색 변경 시뮬레이션
+- Quiz_3
+
+![Quiz_3](https://github.com/nunnunnana/Unreal4_Project/assets/99165741/d25fac35-e7b6-4a1e-9e79-bd9f13c72da2)
+
+<img src="https://github.com/nunnunnana/Unreal4_Project/assets/99165741/64ac9817-428e-44c9-a8b6-1ae0552907b9.png" width="800" height="400"/>
+
+Pawn에 Sphere Collision을 부착한 후 Collision과 오버랩되면 타겟 액터의 색과 위젯의 색을 변경
+
+---
+- Quiz_3_1
+
+![Quiz_3_1](https://github.com/nunnunnana/Unreal4_Project/assets/99165741/d516ce35-ebeb-4dc3-a439-dff3c12369af)
+
+<img src="https://github.com/nunnunnana/Unreal4_Project/assets/99165741/950968a0-0c4e-4930-ba5c-ab36d7e7867b.png" width="1200" height="700"/>
+
+키보드 숫자 1, 2, 3, 4로 색상 변경하고 마우스 클릭하면 LineTrace에 검출된 Actor에 선택한 색상의 Sphere를 생성
+
+만약 같은 색상에 Sphere이면 크기 증가
+
+
