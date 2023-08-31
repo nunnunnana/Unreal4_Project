@@ -3,8 +3,9 @@
 언리얼 엔진의 스킬 향상을 위해 진행한 프로젝트 입니다.
 ***
 ## 1. 큐브 이동 시뮬레이션
-![Quiz_0](https://github.com/nunnunnana/Unreal4_Project/assets/99165741/0f74f14b-7bdb-4a96-a2ee-7a7cc4fe11d2)
 - Quiz_0
+
+![Quiz_0](https://github.com/nunnunnana/Unreal4_Project/assets/99165741/0f74f14b-7bdb-4a96-a2ee-7a7cc4fe11d2)
 
 <img src="https://github.com/nunnunnana/Unreal4_Project/assets/99165741/d3731af0-cc1b-4380-a9b5-b2c5ba7c0865.png" width="400" height="300"/>
 
@@ -38,5 +39,8 @@ Qube를 인덱스 n번째의 Scene Component에 Attach하고 인덱스에 +1을 
 
 ---
 - Quiz_2
-  -  
+  - 위젯의 버튼을 클릭하면 해당 위치로 이동하는 기능 추가
+  - 위젯에 슬라이드를 추가한 후 큐브의 이동 속도 조절 기능 추가
+ 
 ![Quiz_2](https://github.com/nunnunnana/Unreal4_Project/assets/99165741/21a4a925-75f1-4186-b916-d903ec15e32d)
+
