@@ -1,0 +1,1597 @@
+﻿Log file open, 09/08/23 13:36:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Unreal4Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.293146
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed initializing OVRPlugin 1.40.0
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i7-12700K, GPU: NVIDIA GeForce RTX 3070 Ti
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.09.08-04.36.22:922][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.09.08-04.36.22:922][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal4Project/Saved/Config/Windows/Engine.ini]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal4Project/Saved/Config/Windows/Engine.ini]
+[2023.09.08-04.36.22:923][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal4Project/Saved/Config/Windows/Engine.ini]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal4Project/Saved/Config/Windows/Engine.ini]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.09.08-04.36.22:923][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal4Project/Saved/Config/Windows/Engine.ini]
+[2023.09.08-04.36.22:923][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal4Project/Saved/Config/Windows/Engine.ini]
+[2023.09.08-04.36.22:927][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal4Project/Saved/Config/Windows/Scalability.ini]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal4Project/Saved/Config/Windows/Scalability.ini]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal4Project/Saved/Config/Windows/Scalability.ini]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal4Project/Saved/Config/Windows/Scalability.ini]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal4Project/Saved/Config/Windows/Scalability.ini]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal4Project/Saved/Config/Windows/Scalability.ini]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal4Project/Saved/Config/Windows/Scalability.ini]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal4Project/Saved/Config/Windows/Scalability.ini]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2023.09.08-04.36.22:927][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2023.09.08-04.36.22:927][  0]LogInit: Selected Device Profile: [Windows]
+[2023.09.08-04.36.22:927][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.09.08-04.36.22:934][  0]LogHAL: Display: Platform has ~ 64 GB [68448337920 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.09.08-04.36.22:934][  0]LogInit: Going up to parent DeviceProfile []
+[2023.09.08-04.36.22:934][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [D:/Unreal4Project/Saved/Config/Windows/Scalability.ini]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [D:/Unreal4Project/Saved/Config/Windows/Scalability.ini]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [D:/Unreal4Project/Saved/Config/Windows/Scalability.ini]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [D:/Unreal4Project/Saved/Config/Windows/Scalability.ini]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [D:/Unreal4Project/Saved/Config/Windows/Scalability.ini]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [D:/Unreal4Project/Saved/Config/Windows/Scalability.ini]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [D:/Unreal4Project/Saved/Config/Windows/Scalability.ini]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [D:/Unreal4Project/Saved/Config/Windows/Scalability.ini]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2023.09.08-04.36.22:934][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.09.08-04.36.22:938][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.09.08-04.36.22:938][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.09.08-04.36.22:938][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal4Project/Saved/Config/Windows/Engine.ini]
+[2023.09.08-04.36.22:939][  0]LogInit: Computer: VRAD-HBK
+[2023.09.08-04.36.22:939][  0]LogInit: User: VRAD
+[2023.09.08-04.36.22:939][  0]LogInit: CPU Page size=4096, Cores=12
+[2023.09.08-04.36.22:939][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.09.08-04.36.22:939][  0]LogMemory: Memory total: Physical=63.7GB (64GB approx)
+[2023.09.08-04.36.22:939][  0]LogMemory: Platform Memory Stats for Windows
+[2023.09.08-04.36.22:939][  0]LogMemory: Process Physical Memory: 115.81 MB used, 118.15 MB peak
+[2023.09.08-04.36.22:939][  0]LogMemory: Process Virtual Memory: 109.01 MB used, 109.01 MB peak
+[2023.09.08-04.36.22:939][  0]LogMemory: Physical Memory: 19699.32 MB used,  45578.10 MB free, 65277.42 MB total
+[2023.09.08-04.36.22:939][  0]LogMemory: Virtual Memory: 5254.14 MB used,  134212472.00 MB free, 134217728.00 MB total
+[2023.09.08-04.36.22:945][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.09.08-04.36.23:057][  0]LogInit: Using OS detected language (ko-KR).
+[2023.09.08-04.36.23:057][  0]LogInit: Using OS detected locale (ko-KR).
+[2023.09.08-04.36.23:058][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2023.09.08-04.36.23:171][  0]LogInit: Setting process to per monitor DPI aware
+[2023.09.08-04.36.23:247][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.09.08-04.36.23:247][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.09.08-04.36.25:159][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.09.08-04.36.25:159][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.09.08-04.36.25:159][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.09.08-04.36.25:159][  0]LogD3D11RHI: D3D11 adapters:
+[2023.09.08-04.36.25:274][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070 Ti' (Feature Level 11_0)
+[2023.09.08-04.36.25:274][  0]LogD3D11RHI:       8042/0/32638 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.09.08-04.36.25:276][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.09.08-04.36.25:276][  0]LogD3D11RHI:       0/0/32638 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.09.08-04.36.25:276][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.09.08-04.36.25:291][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.09.08-04.36.25:291][  0]LogD3D11RHI:     GPU DeviceId: 0x2482 (for the marketing name, search the web for "GPU Device Id")
+[2023.09.08-04.36.25:291][  0]LogWindows: EnumDisplayDevices:
+[2023.09.08-04.36.25:291][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070 Ti' (P:1 D:1)
+[2023.09.08-04.36.25:292][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070 Ti' (P:0 D:1)
+[2023.09.08-04.36.25:292][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070 Ti' (P:0 D:0)
+[2023.09.08-04.36.25:293][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070 Ti' (P:0 D:0)
+[2023.09.08-04.36.25:293][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.09.08-04.36.25:293][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Ti
+[2023.09.08-04.36.25:293][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2023.09.08-04.36.25:293][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2023.09.08-04.36.25:293][  0]LogRHI: Texture pool is 5629 MB (70% of 8042 MB)
+[2023.09.08-04.36.25:330][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.09.08-04.36.25:330][  0]LogD3D11RHI: Async texture creation enabled
+[2023.09.08-04.36.25:332][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061080).
+[2023.09.08-04.36.25:346][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.09.08-04.36.25:832][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.09.08-04.36.25:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.09.08-04.36.25:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.09.08-04.36.25:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2023.09.08-04.36.25:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.09.08-04.36.25:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2023.09.08-04.36.25:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2023.09.08-04.36.25:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.09.08-04.36.25:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2023.09.08-04.36.25:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.09.08-04.36.25:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.09.08-04.36.25:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2023.09.08-04.36.25:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.09.08-04.36.25:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2023.09.08-04.36.25:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2023.09.08-04.36.25:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.09.08-04.36.25:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2023.09.08-04.36.25:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.09.08-04.36.25:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.09.08-04.36.25:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.09.08-04.36.25:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.09.08-04.36.25:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.09.08-04.36.25:897][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.09.08-04.36.25:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.09.08-04.36.25:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.09.08-04.36.25:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.09.08-04.36.25:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.09.08-04.36.25:945][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.09.08-04.36.25:945][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.09.08-04.36.25:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.09.08-04.36.25:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.09.08-04.36.25:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.09.08-04.36.25:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.09.08-04.36.25:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.09.08-04.36.25:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.09.08-04.36.25:984][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.09.08-04.36.25:990][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.09.08-04.36.26:048][  0]LogShaderCompilers: Guid format shader working directory is 26 characters bigger than the processId version (D:/Unreal4Project/Intermediate/Shaders/WorkingDirectory/207960/).
+[2023.09.08-04.36.26:049][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/VRAD/AppData/Local/Temp/UnrealShaderWorkingDir/77FF0E6044C7B2321F4B30825EEF8927/'.
+[2023.09.08-04.36.26:050][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.09.08-04.36.26:050][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.09.08-04.36.26:050][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.09.08-04.36.28:160][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.09.08-04.36.28:228][  0]LogDerivedDataCache: Loaded boot cache 0.07s 81MB C:/Users/VRAD/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2023.09.08-04.36.28:228][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/VRAD/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2023.09.08-04.36.28:228][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal4Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.09.08-04.36.28:228][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.09.08-04.36.28:228][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal4Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.09.08-04.36.28:228][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.09.08-04.36.28:244][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.09.08-04.36.28:244][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.09.08-04.36.28:244][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.09.08-04.36.28:245][  0]LogDerivedDataCache: Using Local data cache path C:/Users/VRAD/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.09.08-04.36.28:245][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.09.08-04.36.28:245][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.09.08-04.36.28:266][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2023.09.08-04.36.28:270][  0]LogSlate: Using FreeType 2.10.0
+[2023.09.08-04.36.28:279][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.09.08-04.36.28:372][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2023.09.08-04.36.28:654][  0]LogInit: Selected Device Profile: [Windows]
+[2023.09.08-04.36.28:842][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.09.08-04.36.28:842][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.09.08-04.36.28:842][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.09.08-04.36.28:842][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.09.08-04.36.28:842][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.09.08-04.36.28:876][  0]LogNetVersion: Unreal4Project 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 938402965)
+[2023.09.08-04.36.30:524][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.022832 seconds
+[2023.09.08-04.36.30:530][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2023.09.08-04.36.30:530][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2023.09.08-04.36.30:530][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.09.08-04.36.31:080][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.09.08-04.36.31:085][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.09.08-04.36.31:153][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.09.08-04.36.31:154][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.09.08-04.36.31:155][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.09.08-04.36.31:158][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.09.08-04.36.31:160][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.09.08-04.36.31:274][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.09.08-04.36.31:286][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.09.08-04.36.31:286][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.09.08-04.36.31:388][  0]LogOcInput: OculusInput pre-init called
+[2023.09.08-04.36.31:890][  0]LogEngine: Initializing Engine...
+[2023.09.08-04.36.31:891][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.09.08-04.36.31:892][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.09.08-04.36.32:189][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.09.08-04.36.32:208][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.09.08-04.36.32:219][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.08-04.36.32:219][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.08-04.36.32:219][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.08-04.36.32:219][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.08-04.36.32:220][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.08-04.36.32:220][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.08-04.36.32:220][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.08-04.36.32:220][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.08-04.36.32:220][  0]LogAudio: Display: Using built-in audio occlusion.
+[2023.09.08-04.36.32:220][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.08-04.36.32:278][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2023.09.08-04.36.32:279][  0]LogAudioMixer: Display: Name: 헤드폰(Oculus Virtual Audio Device)
+[2023.09.08-04.36.32:279][  0]LogAudioMixer: Display: Is Default: Yes
+[2023.09.08-04.36.32:279][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2023.09.08-04.36.32:279][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2023.09.08-04.36.32:279][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2023.09.08-04.36.32:279][  0]LogAudioMixer: Display: Channel Order:
+[2023.09.08-04.36.32:279][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.08-04.36.32:279][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.09.08-04.36.32:295][  0]LogAudioMixer: Display: Using Audio Device 헤드폰(Oculus Virtual Audio Device)
+[2023.09.08-04.36.32:301][  0]LogInit: FAudioDevice initialized.
+[2023.09.08-04.36.32:301][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.09.08-04.36.32:374][  0]LogDerivedDataCache: Saved boot cache 0.07s 81MB C:/Users/VRAD/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2023.09.08-04.36.32:374][  0]LogInit: Texture streaming: Enabled
+[2023.09.08-04.36.32:386][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.09.08-04.36.32:387][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.09.08-04.36.32:389][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.09.08-04.36.32:429][  0]LogInit: Transaction tracking system initialized
+[2023.09.08-04.36.32:454][  0]BlueprintLog: New page: 에디터 로드
+[2023.09.08-04.36.32:514][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2023.09.08-04.36.33:603][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal4Project/Content/' took 0.01s
+[2023.09.08-04.36.33:603][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2023.09.08-04.36.33:603][  0]LogCook: Display: Mobile HDR setting 1
+[2023.09.08-04.36.34:167][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.09.08-04.36.34:168][  0]Cmd: MAP LOAD FILE="D:/Unreal4Project/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.08-04.36.34:192][  0]LightingResults: New page: 라이팅 빌드
+[2023.09.08-04.36.34:194][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.09.08-04.36.34:194][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.08-04.36.34:195][  0]MapCheck: New page: 맵 체크
+[2023.09.08-04.36.34:195][  0]LightingResults: New page: 라이팅 빌드
+[2023.09.08-04.36.34:226][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.09.08-04.36.34:820][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.09.08-04.36.34:839][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.08-04.36.34:870][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.09.08-04.36.34:870][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.08-04.36.34:870][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.249ms.
+[2023.09.08-04.36.34:870][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.703
+[2023.09.08-04.36.35:045][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.08-04.36.35:050][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.08-04.36.35:055][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.08-04.36.35:060][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.08-04.36.35:076][  0]LogCollectionManager: Loaded 0 collections in 0.001018 seconds
+[2023.09.08-04.36.35:096][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal4Project/Saved/Collections/' took 0.00s
+[2023.09.08-04.36.35:096][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal4Project/Content/Developers/VRAD/Collections/' took 0.00s
+[2023.09.08-04.36.35:096][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal4Project/Content/Collections/' took 0.00s
+[2023.09.08-04.36.35:096][  0]LogContentBrowser: Native class hierarchy populated in 0.0067 seconds. Added 3015 classes and 717 folders.
+[2023.09.08-04.36.35:100][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2023.09.08-04.36.35:303][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.09.08-04.36.35:310][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2023.09.08-04.36.35:420][  0]LogSlate: Took 0.004026 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.09.08-04.36.35:428][  0]LogSlate: Took 0.006769 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2023.09.08-04.36.35:435][  0]LogSlate: Took 0.006254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2023.09.08-04.36.35:439][  0]LogSlate: Took 0.003830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.09.08-04.36.35:445][  0]LogSlate: Took 0.003581 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.09.08-04.36.35:579][  0]LogRenderer: Reallocating scene render targets to support 1572x824 Format 9 NumSamples 1 (Frame:1).
+[2023.09.08-04.36.35:680][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.09.08-04.36.35:680][  0]LogLoad: (Engine Initialization) Total time: 16.47 seconds
+[2023.09.08-04.36.35:680][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.09.08-04.36.35:739][  0]LogContentStreaming: Texture pool size now 600 MB
+[2023.09.08-04.36.36:617][ 16]LogAssetRegistry: Asset discovery search completed in 8.2459 seconds
+[2023.09.08-04.36.36:619][ 16]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000011 seconds (updated 0 objects)
+[2023.09.08-04.36.40:126][266]LogSlate: Took 0.001330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.08-04.36.40:174][266]LogBlueprint: Warning: [Compiler Quiz_6_Pawn_1] Input Axis Event 가  Move_Up 입력 축  에 대해 알려지지 않은 'Move_Up' 축을 참조합니다.
+[2023.09.08-04.36.40:212][266]LogAIModule: Creating AISystem for world Quiz_6_Level
+[2023.09.08-04.36.40:214][266]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Quiz_6/Quiz_6_Level.Quiz_6_Level
+[2023.09.08-04.36.40:242][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.09.08-04.36.40:244][266]Cmd: MAP LOAD FILE="D:/Unreal4Project/Content/Quiz_6/Quiz_6_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.08-04.36.40:244][266]LightingResults: New page: 라이팅 빌드
+[2023.09.08-04.36.40:244][266]LoadErrors: New page: 맵 로드중: Quiz_6_Level.umap
+[2023.09.08-04.36.40:245][266]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.09.08-04.36.40:245][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.08-04.36.40:245][266]MapCheck: New page: 맵 체크
+[2023.09.08-04.36.40:245][266]LightingResults: New page: 라이팅 빌드
+[2023.09.08-04.36.40:274][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.09.08-04.36.40:305][266]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.08-04.36.40:332][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.09.08-04.36.40:343][266]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.08-04.36.40:344][266]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 1.025ms.
+[2023.09.08-04.36.40:344][266]LogFileHelpers: Loading map 'Quiz_6_Level' took 0.101
+[2023.09.08-04.36.41:374][377]LogAIModule: Creating AISystem for world Quiz_6_Level_1
+[2023.09.08-04.36.41:379][377]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Quiz_6/Quiz_6_Level_1.Quiz_6_Level_1
+[2023.09.08-04.36.41:409][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.09.08-04.36.41:410][377]Cmd: MAP LOAD FILE="D:/Unreal4Project/Content/Quiz_6/Quiz_6_Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.08-04.36.41:410][377]LightingResults: New page: 라이팅 빌드
+[2023.09.08-04.36.41:411][377]LoadErrors: New page: 맵 로드중: Quiz_6_Level_1.umap
+[2023.09.08-04.36.41:411][377]LogWorld: UWorld::CleanupWorld for Quiz_6_Level, bSessionEnded=true, bCleanupResources=true
+[2023.09.08-04.36.41:411][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.08-04.36.41:411][377]MapCheck: New page: 맵 체크
+[2023.09.08-04.36.41:411][377]LightingResults: New page: 라이팅 빌드
+[2023.09.08-04.36.41:439][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.09.08-04.36.41:494][377]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.08-04.36.41:523][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.09.08-04.36.41:533][377]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.08-04.36.41:534][377]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.928ms.
+[2023.09.08-04.36.41:534][377]LogFileHelpers: Loading map 'Quiz_6_Level_1' took 0.124
+[2023.09.08-04.36.52:847][580]LogBlueprint: Warning: [Compiler Choosuck_Quiz_1_Pawn] Input Axis Event 가  Move_Up 입력 축  에 대해 알려지지 않은 'Move_Up' 축을 참조합니다.
+[2023.09.08-04.36.52:868][580]LogAIModule: Creating AISystem for world ChoosuckQuiz_1_Level
+[2023.09.08-04.36.52:869][580]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ChoosuckQuiz/ChoosuckQuiz_1_Level.ChoosuckQuiz_1_Level
+[2023.09.08-04.36.52:896][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.09.08-04.36.52:897][580]Cmd: MAP LOAD FILE="D:/Unreal4Project/Content/ChoosuckQuiz/ChoosuckQuiz_1_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.08-04.36.52:897][580]LightingResults: New page: 라이팅 빌드
+[2023.09.08-04.36.52:897][580]LoadErrors: New page: 맵 로드중: ChoosuckQuiz_1_Level.umap
+[2023.09.08-04.36.52:898][580]LogWorld: UWorld::CleanupWorld for Quiz_6_Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.09.08-04.36.52:898][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.08-04.36.52:898][580]MapCheck: New page: 맵 체크
+[2023.09.08-04.36.52:898][580]LightingResults: New page: 라이팅 빌드
+[2023.09.08-04.36.52:926][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.09.08-04.36.52:975][580]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.08-04.36.53:002][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.09.08-04.36.53:011][580]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.08-04.36.53:011][580]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.055ms.
+[2023.09.08-04.36.53:011][580]LogFileHelpers: Loading map 'ChoosuckQuiz_1_Level' took 0.115
+[2023.09.08-04.36.56:660][ 13]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.09.08-04.36.56:664][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.08-04.36.56:664][ 13]PIE: New page: PIE 세션: ChoosuckQuiz_1_Level (2023. 9. 8. 오후 10:36:56)
+[2023.09.08-04.36.56:665][ 13]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.09.08-04.36.56:666][ 13]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.09.08-04.36.56:666][ 13]LogPlayLevel: Creating play world package: /Game/ChoosuckQuiz/UEDPIE_0_ChoosuckQuiz_1_Level
+[2023.09.08-04.36.56:668][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002155s)
+[2023.09.08-04.36.56:669][ 13]LogAIModule: Creating AISystem for world ChoosuckQuiz_1_Level
+[2023.09.08-04.36.56:669][ 13]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2023.09.08-04.36.56:669][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ChoosuckQuiz/ChoosuckQuiz_1_Level.ChoosuckQuiz_1_Level to /Game/ChoosuckQuiz/UEDPIE_0_ChoosuckQuiz_1_Level.ChoosuckQuiz_1_Level (0.002931s)
+[2023.09.08-04.36.56:698][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.09.08-04.36.56:698][ 13]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.08-04.36.56:698][ 13]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.08-04.36.56:698][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.08-04.36.56:698][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.08-04.36.56:698][ 13]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.08-04.36.56:698][ 13]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.08-04.36.56:698][ 13]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.08-04.36.56:698][ 13]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.08-04.36.56:699][ 13]LogAudio: Display: Using built-in audio occlusion.
+[2023.09.08-04.36.56:699][ 13]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.08-04.36.56:749][ 13]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2023.09.08-04.36.56:749][ 13]LogAudioMixer: Display: Name: 헤드폰(Oculus Virtual Audio Device)
+[2023.09.08-04.36.56:749][ 13]LogAudioMixer: Display: Is Default: Yes
+[2023.09.08-04.36.56:749][ 13]LogAudioMixer: Display: Sample Rate: 48000
+[2023.09.08-04.36.56:749][ 13]LogAudioMixer: Display: Channel Count Used: 2
+[2023.09.08-04.36.56:749][ 13]LogAudioMixer: Display: Device Channel Count: 2
+[2023.09.08-04.36.56:749][ 13]LogAudioMixer: Display: Channel Order:
+[2023.09.08-04.36.56:749][ 13]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.08-04.36.56:749][ 13]LogAudioMixer: Display: 1: FrontRight
+[2023.09.08-04.36.56:756][ 13]LogAudioMixer: Display: Using Audio Device 헤드폰(Oculus Virtual Audio Device)
+[2023.09.08-04.36.56:757][ 13]LogInit: FAudioDevice initialized.
+[2023.09.08-04.36.56:764][ 13]LogLoad: Game class is 'GameModeBase'
+[2023.09.08-04.36.56:765][ 13]LogWorld: Bringing World /Game/ChoosuckQuiz/UEDPIE_0_ChoosuckQuiz_1_Level.ChoosuckQuiz_1_Level up for play (max tick rate 0) at 2023.09.08-13.36.56
+[2023.09.08-04.36.56:765][ 13]LogWorld: Bringing up level for play took: 0.000575
+[2023.09.08-04.36.56:765][ 13]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2023.09.08-04.36.56:770][ 13]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2023.09.08-04.36.56:770][ 13]PIE: /Game/ChoosuckQuiz/UEDPIE_0_ChoosuckQuiz_1_Level 에 대한 에디터에서 플레이 시작 시간: 0.483
+[2023.09.08-04.37.10:197][622]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2023.09.08-04.37.10:197][622]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2023.09.08-04.37.10:198][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.08-04.37.10:198][622]LogWorld: BeginTearingDown for /Game/ChoosuckQuiz/UEDPIE_0_ChoosuckQuiz_1_Level
+[2023.09.08-04.37.10:198][622]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2023.09.08-04.37.10:198][622]LogWorld: UWorld::CleanupWorld for ChoosuckQuiz_1_Level, bSessionEnded=true, bCleanupResources=true
+[2023.09.08-04.37.10:198][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.08-04.37.10:204][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.08-04.37.10:206][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.08-04.37.10:230][622]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2023.09.08-04.37.10:232][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.08-04.37.10:234][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.09.08-04.37.10:300][627]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.09.08-04.37.11:391][731]LogAIModule: Creating AISystem for world ChoosuckQuiz_2_Level
+[2023.09.08-04.37.11:443][731]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ChoosuckQuiz/ChoosuckQuiz_2_Level.ChoosuckQuiz_2_Level
+[2023.09.08-04.37.11:473][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.09.08-04.37.11:474][731]Cmd: MAP LOAD FILE="D:/Unreal4Project/Content/ChoosuckQuiz/ChoosuckQuiz_2_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.08-04.37.11:474][731]LightingResults: New page: 라이팅 빌드
+[2023.09.08-04.37.11:475][731]LoadErrors: New page: 맵 로드중: ChoosuckQuiz_2_Level.umap
+[2023.09.08-04.37.11:475][731]LogWorld: UWorld::CleanupWorld for ChoosuckQuiz_1_Level, bSessionEnded=true, bCleanupResources=true
+[2023.09.08-04.37.11:475][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.08-04.37.11:475][731]MapCheck: New page: 맵 체크
+[2023.09.08-04.37.11:475][731]LightingResults: New page: 라이팅 빌드
+[2023.09.08-04.37.11:503][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.09.08-04.37.11:671][731]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.08-04.37.11:704][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.09.08-04.37.11:716][731]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.08-04.37.11:716][731]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.09ms.
+[2023.09.08-04.37.11:716][731]LogFileHelpers: Loading map 'ChoosuckQuiz_2_Level' took 0.242
+[2023.09.08-04.37.46:229][ 69]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2023.09.08-04.37.50:497][580]LogAIModule: Creating AISystem for world ChoosuckQuiz_1_Level
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor:AttachToPawn.K2Node_FunctionEntry_0' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:Ultimate' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:ReceiveTick' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:BndEvt__Sphere_Collision_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:ReceiveBeginPlay' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:Set_Sphere_Color' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:Overlap_Sphere' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:Set_Hidden_Arrow' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:Collect_Sphere_Is_On' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:Collect_Actors' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:Hidden_Arrow' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:Sphere_Color' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:Choosuck_Quiz_2_Pawn' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:Rotate_Speed' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:Radius_Y' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:Radius_X' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:Time' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:Color_Sphere_Actor_2' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:Overlap_Sphere_Speed' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:Collect_Sphere' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:Sphere_Collision' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:Scene' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:Sphere' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:Arrow' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:PointLight' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C:UserConstructionScript' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.SKEL_Quiz_2_Sphere_Actor_C' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:Collect_Sphere_Is_On' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:Collect_Actors' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:Hidden_Arrow' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:Sphere_Color' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:Choosuck_Quiz_2_Pawn' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:Rotate_Speed' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:Radius_Y' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:Radius_X' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:Time' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:Color_Sphere_Actor_2' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:Overlap_Sphere_Speed' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:Collect_Sphere' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:Sphere_Collision' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:Scene' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:Sphere' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:Arrow' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:PointLight' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:ReceiveBeginPlay' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:532][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:ReceiveTick' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:533][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:Set_Hidden_Arrow' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:533][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:Overlap_Sphere' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:533][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:Set_Sphere_Color' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:533][580]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor_C:Ultimate' ref from Metadata '/Game/ChoosuckQuiz/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:536][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor_2.Color_Sphere_Actor_2:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor_2.PackageMetaData'
+[2023.09.08-04.37.50:536][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor_2.Color_Sphere_Actor_2_C' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor_2.PackageMetaData'
+[2023.09.08-04.37.50:536][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor_2.SKEL_Color_Sphere_Actor_2_C:Set_Physics' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor_2.PackageMetaData'
+[2023.09.08-04.37.50:536][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor_2.SKEL_Color_Sphere_Actor_2_C:Is_On' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor_2.PackageMetaData'
+[2023.09.08-04.37.50:536][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor_2.SKEL_Color_Sphere_Actor_2_C:Color' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor_2.PackageMetaData'
+[2023.09.08-04.37.50:536][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor_2.SKEL_Color_Sphere_Actor_2_C:Sphere' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor_2.PackageMetaData'
+[2023.09.08-04.37.50:536][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor_2.SKEL_Color_Sphere_Actor_2_C:UserConstructionScript' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor_2.PackageMetaData'
+[2023.09.08-04.37.50:536][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor_2.SKEL_Color_Sphere_Actor_2_C' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor_2.PackageMetaData'
+[2023.09.08-04.37.50:536][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor_2.Color_Sphere_Actor_2_C:Is_On' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor_2.PackageMetaData'
+[2023.09.08-04.37.50:536][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor_2.Color_Sphere_Actor_2_C:Color' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor_2.PackageMetaData'
+[2023.09.08-04.37.50:536][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor_2.Color_Sphere_Actor_2_C:Sphere' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor_2.PackageMetaData'
+[2023.09.08-04.37.50:536][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor_2.Color_Sphere_Actor_2_C:Set_Physics' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor_2.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn_C' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn:Compare to Distance.K2Node_FunctionEntry_0' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn:DistanceOver800.K2Node_FunctionEntry_0' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn:Rotate_Sphere.K2Node_FunctionEntry_0' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn:ReturnToCube.K2Node_FunctionEntry_0' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn:SphereMoveForward.K2Node_FunctionEntry_0' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_5' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_6' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_8' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:SetActorLocation' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:ReceiveBeginPlay' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:ReceiveTick' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:ShootSphere' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:CallSphere' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:CollectBall' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:Delay_Enable' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:Rotate_On' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:Quiz_2_Sphere_Actor' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:Actor_Speed' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:mouse_speed' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:move_speed' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:SetActorTimeline' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:Cube' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:Camera' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:Root_Scene' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:Scene' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:UserConstructionScript' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:Compare to Distance' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:DistanceOver800' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C:DistanceOver1000' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.SKEL_Choosuck_Quiz_2_Pawn_C' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn_C:Rotate_On' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn_C:Quiz_2_Sphere_Actor' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn_C:Actor_Speed' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn_C:mouse_speed' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn_C:move_speed' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn_C:SetActorTimeline' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn_C:Cube' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn_C:Camera' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn_C:Root_Scene' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn_C:Scene' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn_C:ReceiveTick' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn_C:ReceiveBeginPlay' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn_C:DistanceOver1000' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn_C:SetActorLocation' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn_C:Compare to Distance' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:539][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn_C:DistanceOver800' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_5' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_6' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_8' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_9' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:InpAxisEvt_Move_Up_K2Node_InputAxisEvent_0' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:ReceiveTick' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:ReceiveBeginPlay' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:SetActorLocation' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:Actor_Speed' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:ColorSpereActor' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:Trace_Distance' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:mouse_speed' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:move_speed' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:DefaultSceneRoot' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:Camera' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:Scene' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:UserConstructionScript' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:Actor_Speed' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:ColorSpereActor' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:Trace_Distance' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:mouse_speed' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:move_speed' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:DefaultSceneRoot' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:Camera' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:Scene' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:ReceiveBeginPlay' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:ReceiveTick' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:542][580]LogMetaData: Removing '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:SetActorLocation' ref from Metadata '/Game/ChoosuckQuiz/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.37.50:545][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor.Color_Sphere_Actor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:545][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor.Color_Sphere_Actor_C' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:545][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor.Color_Sphere_Actor:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:545][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor.Color_Sphere_Actor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:545][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor.Color_Sphere_Actor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:545][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor.SKEL_Color_Sphere_Actor_C:ReceiveBeginPlay' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:545][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor.SKEL_Color_Sphere_Actor_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:545][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor.SKEL_Color_Sphere_Actor_C:ReceiveTick' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:545][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor.SKEL_Color_Sphere_Actor_C:Sphere' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:545][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor.SKEL_Color_Sphere_Actor_C:UserConstructionScript' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:545][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor.SKEL_Color_Sphere_Actor_C' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:545][580]LogMetaData: Removing '/Game/Quiz_Oriana/Color_Sphere_Actor.Color_Sphere_Actor_C:Sphere' ref from Metadata '/Game/ChoosuckQuiz/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.37.50:582][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/ChoosuckQuiz_1_Level_BuiltData" FILE="D:/Unreal4Project/Content/Quiz_Oriana/ChoosuckQuiz_1_Level_BuiltData.uasset" SILENT=true
+[2023.09.08-04.37.50:588][580]LogSavePackage: Moving 'D:/Unreal4Project/Saved/ChoosuckQuiz_1_Level_BuiltDataBB4DD2924BD91E907BCAFD834EDBE5AF.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/ChoosuckQuiz_1_Level_BuiltData.uasset'
+[2023.09.08-04.37.50:589][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/ChoosuckQuiz_2_Level_BuiltData" FILE="D:/Unreal4Project/Content/Quiz_Oriana/ChoosuckQuiz_2_Level_BuiltData.uasset" SILENT=true
+[2023.09.08-04.37.50:596][580]LogSavePackage: Moving 'D:/Unreal4Project/Saved/ChoosuckQuiz_2_Level_BuiltData0D3E754D462BA025B5552794496185D4.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/ChoosuckQuiz_2_Level_BuiltData.uasset'
+[2023.09.08-04.37.50:602][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Color_Sphere_Actor_2_Mat" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Color_Sphere_Actor_2_Mat.uasset" SILENT=true
+[2023.09.08-04.37.50:608][580]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Color_Sphere_Actor_2_Mat6FE5734A46273D014CC3009549A29C53.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Color_Sphere_Actor_2_Mat.uasset'
+[2023.09.08-04.37.50:613][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Quiz_2_Sphere_Actor_Mat" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Quiz_2_Sphere_Actor_Mat.uasset" SILENT=true
+[2023.09.08-04.37.50:619][580]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_2_Sphere_Actor_MatDC63124445E6D8086499729D2C6C5215.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Quiz_2_Sphere_Actor_Mat.uasset'
+[2023.09.08-04.37.50:624][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Quiz_2_Sphere_Actor" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Quiz_2_Sphere_Actor.uasset" SILENT=true
+[2023.09.08-04.37.50:648][580]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_2_Sphere_Actor9E8325EA42A440D96073F2A343E00F4A.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Quiz_2_Sphere_Actor.uasset'
+[2023.09.08-04.37.50:654][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Color_Sphere_Actor_2" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Color_Sphere_Actor_2.uasset" SILENT=true
+[2023.09.08-04.37.50:663][580]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Color_Sphere_Actor_2D7BD31C2494446AFC60BFDAFAD5B1144.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Color_Sphere_Actor_2.uasset'
+[2023.09.08-04.37.50:668][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Choosuck_Quiz_2_Pawn.uasset" SILENT=true
+[2023.09.08-04.37.50:708][580]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Choosuck_Quiz_2_PawnC68C7378456F42B6C4358DAC5B1A203B.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Choosuck_Quiz_2_Pawn.uasset'
+[2023.09.08-04.37.50:708][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Choosuck_Quiz_1_Pawn.uasset" SILENT=true
+[2023.09.08-04.37.50:725][580]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Choosuck_Quiz_1_Pawn08B9E02A4ECD67D4D6BDE580E86A151B.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Choosuck_Quiz_1_Pawn.uasset'
+[2023.09.08-04.37.50:730][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Color_Sphere_Actor" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Color_Sphere_Actor.uasset" SILENT=true
+[2023.09.08-04.37.50:738][580]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Color_Sphere_Actor0BF1EDEA40C6717010F874B6B3C05D2D.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Color_Sphere_Actor.uasset'
+[2023.09.08-04.37.50:744][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Color_Sphere_Actor_Mat" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Color_Sphere_Actor_Mat.uasset" SILENT=true
+[2023.09.08-04.37.50:750][580]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Color_Sphere_Actor_Mat4D3B9DEF4C565224EF706AAE1E02E898.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Color_Sphere_Actor_Mat.uasset'
+[2023.09.08-04.37.50:751][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/ChoosuckQuiz_2_Level" FILE="D:/Unreal4Project/Content/Quiz_Oriana/ChoosuckQuiz_2_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.08-04.37.50:777][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.09.08-04.37.50:924][580]LogSavePackage: Moving 'D:/Unreal4Project/Saved/ChoosuckQuiz_2_Level4E3F9B45463AD758B87833A310720AD1.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/ChoosuckQuiz_2_Level.umap'
+[2023.09.08-04.37.50:933][580]LogFileHelpers: Saving map 'ChoosuckQuiz_2_Level' took 0.183
+[2023.09.08-04.37.50:934][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/ChoosuckQuiz_1_Level" FILE="D:/Unreal4Project/Content/Quiz_Oriana/ChoosuckQuiz_1_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.08-04.37.50:962][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.09.08-04.37.50:971][580]LogSavePackage: Moving 'D:/Unreal4Project/Saved/ChoosuckQuiz_1_Level1B3DA4644B45B0631390F09DDA8C055A.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/ChoosuckQuiz_1_Level.umap'
+[2023.09.08-04.37.50:973][580]LogFileHelpers: Saving map 'ChoosuckQuiz_1_Level' took 0.040
+[2023.09.08-04.37.51:409][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.09.08-04.37.51:435][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.09.08-04.37.51:461][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.09.08-04.37.51:489][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.08-04.37.51:518][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.09.08-04.37.51:544][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.08-04.37.51:573][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.09.08-04.37.51:599][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.08-04.37.51:628][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.08-04.37.51:656][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.08-04.37.51:685][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.08-04.37.51:713][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.08-04.37.51:744][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.09.08-04.37.51:769][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.08-04.37.51:810][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_6/Quiz_6_Actor_1" FILE="D:/Unreal4Project/Content/Quiz_6/Quiz_6_Actor_1.uasset" SILENT=true
+[2023.09.08-04.37.51:829][580]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_6_Actor_11C6F5976487A6F2C7DDD16AA03AA2606.tmp' to 'D:/Unreal4Project/Content/Quiz_6/Quiz_6_Actor_1.uasset'
+[2023.09.08-04.37.51:834][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_6/Quiz_6_Actor_2" FILE="D:/Unreal4Project/Content/Quiz_6/Quiz_6_Actor_2.uasset" SILENT=true
+[2023.09.08-04.37.51:848][580]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_6_Actor_2602BEC9C4BB64DF0E68E7681F82FEC11.tmp' to 'D:/Unreal4Project/Content/Quiz_6/Quiz_6_Actor_2.uasset'
+[2023.09.08-04.37.51:898][580]AssetCheck: New page: Asset Save: 애셋이 다수입니다.
+[2023.09.08-04.37.51:898][580]LogContentValidation: Display: MapBuildDataRegistry /Game/Quiz_Oriana/ChoosuckQuiz_1_Level_BuiltData.ChoosuckQuiz_1_Level_BuiltData 유효성 검사
+[2023.09.08-04.37.51:898][580]LogContentValidation: Display: MapBuildDataRegistry /Game/Quiz_Oriana/ChoosuckQuiz_2_Level_BuiltData.ChoosuckQuiz_2_Level_BuiltData 유효성 검사
+[2023.09.08-04.37.51:898][580]LogContentValidation: Display: Material /Game/Quiz_Oriana/Color_Sphere_Actor_2_Mat.Color_Sphere_Actor_2_Mat 유효성 검사
+[2023.09.08-04.37.51:898][580]LogContentValidation: Display: Material /Game/Quiz_Oriana/Quiz_2_Sphere_Actor_Mat.Quiz_2_Sphere_Actor_Mat 유효성 검사
+[2023.09.08-04.37.51:898][580]LogContentValidation: Display: Blueprint /Game/Quiz_Oriana/Quiz_2_Sphere_Actor.Quiz_2_Sphere_Actor 유효성 검사
+[2023.09.08-04.37.51:898][580]LogContentValidation: Display: Blueprint /Game/Quiz_Oriana/Color_Sphere_Actor_2.Color_Sphere_Actor_2 유효성 검사
+[2023.09.08-04.37.51:898][580]LogContentValidation: Display: Blueprint /Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn 유효성 검사
+[2023.09.08-04.37.51:898][580]LogContentValidation: Display: Blueprint /Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn 유효성 검사
+[2023.09.08-04.37.51:898][580]LogContentValidation: Display: Blueprint /Game/Quiz_Oriana/Color_Sphere_Actor.Color_Sphere_Actor 유효성 검사
+[2023.09.08-04.37.51:898][580]LogContentValidation: Display: Material /Game/Quiz_Oriana/Color_Sphere_Actor_Mat.Color_Sphere_Actor_Mat 유효성 검사
+[2023.09.08-04.37.51:898][580]LogContentValidation: Display: World /Game/Quiz_Oriana/ChoosuckQuiz_2_Level.ChoosuckQuiz_2_Level 유효성 검사
+[2023.09.08-04.37.51:898][580]LogContentValidation: Display: World /Game/Quiz_Oriana/ChoosuckQuiz_1_Level.ChoosuckQuiz_1_Level 유효성 검사
+[2023.09.08-04.37.51:898][580]LogContentValidation: Display: Blueprint /Game/Quiz_6/Quiz_6_Actor_1.Quiz_6_Actor_1 유효성 검사
+[2023.09.08-04.37.51:898][580]LogContentValidation: Display: Blueprint /Game/Quiz_6/Quiz_6_Actor_2.Quiz_6_Actor_2 유효성 검사
+[2023.09.08-04.38.02:526][838]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Quiz_Oriana/ChoosuckQuiz_1_Level.ChoosuckQuiz_1_Level
+[2023.09.08-04.38.02:550][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.09.08-04.38.02:551][838]Cmd: MAP LOAD FILE="D:/Unreal4Project/Content/Quiz_Oriana/ChoosuckQuiz_1_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.08-04.38.02:551][838]LightingResults: New page: 라이팅 빌드
+[2023.09.08-04.38.02:552][838]LoadErrors: New page: 맵 로드중: ChoosuckQuiz_1_Level.umap
+[2023.09.08-04.38.02:554][838]LogWorld: UWorld::CleanupWorld for ChoosuckQuiz_2_Level, bSessionEnded=true, bCleanupResources=true
+[2023.09.08-04.38.02:554][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.08-04.38.02:554][838]MapCheck: New page: 맵 체크
+[2023.09.08-04.38.02:554][838]LightingResults: New page: 라이팅 빌드
+[2023.09.08-04.38.02:584][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.09.08-04.38.02:654][838]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.08-04.38.02:678][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.09.08-04.38.02:689][838]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.08-04.38.02:689][838]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.059ms.
+[2023.09.08-04.38.02:689][838]LogFileHelpers: Loading map 'ChoosuckQuiz_1_Level' took 0.138
+[2023.09.08-04.38.10:881][787]LogSlate: Took 0.003761 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.09.08-04.38.31:168][124]LogSlate: Window '레퍼런스 뷰어' being destroyed
+[2023.09.08-04.38.31:172][124]LogSlate: Window '레퍼런스 뷰어' being destroyed
+[2023.09.08-04.38.38:205][956]LogMetaData: Removing '/Game/Quiz_5/Color_Sphere_Actor.Color_Sphere_Actor_C' ref from Metadata '/Game/Quiz_Oriana/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.38.38:205][956]LogMetaData: Removing '/Game/Quiz_5/Color_Sphere_Actor.Color_Sphere_Actor_C:Sphere' ref from Metadata '/Game/Quiz_Oriana/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.38.38:205][956]LogMetaData: Removing '/Game/Quiz_5/Color_Sphere_Actor.SKEL_Color_Sphere_Actor_C' ref from Metadata '/Game/Quiz_Oriana/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.38.38:205][956]LogMetaData: Removing '/Game/Quiz_5/Color_Sphere_Actor.SKEL_Color_Sphere_Actor_C:ReceiveBeginPlay' ref from Metadata '/Game/Quiz_Oriana/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.38.38:205][956]LogMetaData: Removing '/Game/Quiz_5/Color_Sphere_Actor.SKEL_Color_Sphere_Actor_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Quiz_Oriana/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.38.38:205][956]LogMetaData: Removing '/Game/Quiz_5/Color_Sphere_Actor.SKEL_Color_Sphere_Actor_C:ReceiveTick' ref from Metadata '/Game/Quiz_Oriana/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.38.38:205][956]LogMetaData: Removing '/Game/Quiz_5/Color_Sphere_Actor.SKEL_Color_Sphere_Actor_C:Sphere' ref from Metadata '/Game/Quiz_Oriana/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.38.38:205][956]LogMetaData: Removing '/Game/Quiz_5/Color_Sphere_Actor.SKEL_Color_Sphere_Actor_C:UserConstructionScript' ref from Metadata '/Game/Quiz_Oriana/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.38.38:205][956]LogMetaData: Removing '/Game/Quiz_5/Color_Sphere_Actor.Color_Sphere_Actor:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Quiz_Oriana/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.38.38:205][956]LogMetaData: Removing '/Game/Quiz_5/Color_Sphere_Actor.Color_Sphere_Actor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Quiz_Oriana/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.38.38:205][956]LogMetaData: Removing '/Game/Quiz_5/Color_Sphere_Actor.Color_Sphere_Actor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Quiz_Oriana/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.38.38:205][956]LogMetaData: Removing '/Game/Quiz_5/Color_Sphere_Actor.Color_Sphere_Actor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Quiz_Oriana/Color_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:ReceiveTick' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:ReceiveBeginPlay' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:SetActorLocation' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:Scene' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:Camera' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:DefaultSceneRoot' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:move_speed' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:mouse_speed' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:Trace_Distance' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:ColorSpereActor' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C:Actor_Speed' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_5' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_6' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_8' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_9' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:InpAxisEvt_Move_Up_K2Node_InputAxisEvent_0' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:ReceiveTick' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:ReceiveBeginPlay' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:SetActorLocation' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:Actor_Speed' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:ColorSpereActor' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:Trace_Distance' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:mouse_speed' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:move_speed' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:DefaultSceneRoot' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:Camera' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:Scene' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:209][956]LogMetaData: Removing '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.SKEL_Choosuck_Quiz_1_Pawn_C:UserConstructionScript' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.38.38:236][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/ChoosuckQuiz_1_Level_BuiltData" FILE="D:/Unreal4Project/Content/Quiz_5/ChoosuckQuiz_1_Level_BuiltData.uasset" SILENT=true
+[2023.09.08-04.38.38:241][956]LogSavePackage: Moving 'D:/Unreal4Project/Saved/ChoosuckQuiz_1_Level_BuiltData0636E1404572973FBA345B84A8725A36.tmp' to 'D:/Unreal4Project/Content/Quiz_5/ChoosuckQuiz_1_Level_BuiltData.uasset'
+[2023.09.08-04.38.38:246][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Color_Sphere_Actor" FILE="D:/Unreal4Project/Content/Quiz_5/Color_Sphere_Actor.uasset" SILENT=true
+[2023.09.08-04.38.38:254][956]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Color_Sphere_ActorEC81DACF4CC7244A4224A9A4D53B39B3.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Color_Sphere_Actor.uasset'
+[2023.09.08-04.38.38:259][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Color_Sphere_Actor_Mat" FILE="D:/Unreal4Project/Content/Quiz_5/Color_Sphere_Actor_Mat.uasset" SILENT=true
+[2023.09.08-04.38.38:265][956]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Color_Sphere_Actor_Mat30D7F34045F41FBD3FE1F38FB45E30E9.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Color_Sphere_Actor_Mat.uasset'
+[2023.09.08-04.38.38:266][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Choosuck_Quiz_1_Pawn" FILE="D:/Unreal4Project/Content/Quiz_5/Choosuck_Quiz_1_Pawn.uasset" SILENT=true
+[2023.09.08-04.38.38:284][956]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Choosuck_Quiz_1_Pawn13172AFB4BD1A849220F27B5D77011CD.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Choosuck_Quiz_1_Pawn.uasset'
+[2023.09.08-04.38.38:285][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/ChoosuckQuiz_1_Level" FILE="D:/Unreal4Project/Content/Quiz_5/ChoosuckQuiz_1_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.08-04.38.38:312][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.09.08-04.38.38:321][956]LogSavePackage: Moving 'D:/Unreal4Project/Saved/ChoosuckQuiz_1_LevelC639D6654A57F5F27F05DBA41ACBFB95.tmp' to 'D:/Unreal4Project/Content/Quiz_5/ChoosuckQuiz_1_Level.umap'
+[2023.09.08-04.38.38:332][956]LogFileHelpers: Saving map 'ChoosuckQuiz_1_Level' took 0.047
+[2023.09.08-04.38.38:511][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.09.08-04.38.38:536][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.08-04.38.38:564][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.08-04.38.38:590][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.09.08-04.38.38:617][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.09.08-04.38.38:651][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.09.08-04.38.38:677][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.09.08-04.38.38:693][956]AssetCheck: New page: Asset Save: 애셋이 다수입니다.
+[2023.09.08-04.38.38:693][956]LogContentValidation: Display: MapBuildDataRegistry /Game/Quiz_5/ChoosuckQuiz_1_Level_BuiltData.ChoosuckQuiz_1_Level_BuiltData 유효성 검사
+[2023.09.08-04.38.38:693][956]LogContentValidation: Display: Blueprint /Game/Quiz_5/Color_Sphere_Actor.Color_Sphere_Actor 유효성 검사
+[2023.09.08-04.38.38:693][956]LogContentValidation: Display: Material /Game/Quiz_5/Color_Sphere_Actor_Mat.Color_Sphere_Actor_Mat 유효성 검사
+[2023.09.08-04.38.38:693][956]LogContentValidation: Display: Blueprint /Game/Quiz_5/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn 유효성 검사
+[2023.09.08-04.38.38:693][956]LogContentValidation: Display: World /Game/Quiz_5/ChoosuckQuiz_1_Level.ChoosuckQuiz_1_Level 유효성 검사
+[2023.09.08-04.39.03:374][579]LogAIModule: Creating AISystem for world ChoosuckQuiz_2_Level
+[2023.09.08-04.39.08:811][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Quiz_Oriana_Level_BuiltData" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Level_BuiltData.uasset" SILENT=true
+[2023.09.08-04.39.08:818][211]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_Oriana_Level_BuiltData367F49DE4DD098A6C7B62C9C05DBCF45.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Level_BuiltData.uasset'
+[2023.09.08-04.39.08:819][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Quiz_Oriana_Level" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.08-04.39.08:938][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.09.08-04.39.09:092][211]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_Oriana_Level1ADA90B74704E898B61F5DBC614842B6.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Level.umap'
+[2023.09.08-04.39.09:142][211]LogFileHelpers: Saving map 'Quiz_Oriana_Level' took 0.324
+[2023.09.08-04.39.09:275][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.09.08-04.39.09:304][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.09.08-04.39.09:337][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.09.08-04.39.09:363][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.08-04.39.09:377][211]AssetCheck: New page: Asset Save: 애셋이 다수입니다.
+[2023.09.08-04.39.09:377][211]LogContentValidation: Display: MapBuildDataRegistry /Game/Quiz_Oriana/Quiz_Oriana_Level_BuiltData.Quiz_Oriana_Level_BuiltData 유효성 검사
+[2023.09.08-04.39.09:377][211]LogContentValidation: Display: World /Game/Quiz_Oriana/Quiz_Oriana_Level.Quiz_Oriana_Level 유효성 검사
+[2023.09.08-04.39.11:365][445]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Quiz_Oriana/Quiz_Oriana_Level.Quiz_Oriana_Level
+[2023.09.08-04.39.11:392][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.09.08-04.39.11:394][445]Cmd: MAP LOAD FILE="D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.08-04.39.11:394][445]LightingResults: New page: 라이팅 빌드
+[2023.09.08-04.39.11:394][445]LoadErrors: New page: 맵 로드중: Quiz_Oriana_Level.umap
+[2023.09.08-04.39.11:394][445]LogWorld: UWorld::CleanupWorld for ChoosuckQuiz_1_Level, bSessionEnded=true, bCleanupResources=true
+[2023.09.08-04.39.11:394][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.08-04.39.11:394][445]MapCheck: New page: 맵 체크
+[2023.09.08-04.39.11:394][445]LightingResults: New page: 라이팅 빌드
+[2023.09.08-04.39.11:422][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.09.08-04.39.11:624][445]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.08-04.39.11:654][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.09.08-04.39.11:666][445]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.08-04.39.11:666][445]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.08ms.
+[2023.09.08-04.39.11:666][445]LogFileHelpers: Loading map 'Quiz_Oriana_Level' took 0.273
+[2023.09.08-04.39.22:388][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.09.08-04.39.22:465][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.09.08-04.39.22:465][708]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_Oriana_Pawn.Quiz_Oriana_Pawn_C' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.39.22:465][708]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_Oriana_Pawn.SKEL_Quiz_Oriana_Pawn_C' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.39.22:465][708]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_Oriana_Pawn.Quiz_Oriana_Pawn:Compare to Distance.K2Node_FunctionEntry_0' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.39.22:465][708]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_Oriana_Pawn.Quiz_Oriana_Pawn:DistanceOver800.K2Node_FunctionEntry_0' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.39.22:465][708]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_Oriana_Pawn.Quiz_Oriana_Pawn:ReturnToCube.K2Node_FunctionEntry_0' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.39.22:465][708]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_Oriana_Pawn.Quiz_Oriana_Pawn:Rotate_Sphere.K2Node_FunctionEntry_0' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.39.22:465][708]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_Oriana_Pawn.Quiz_Oriana_Pawn:SphereMoveForward.K2Node_FunctionEntry_0' ref from Metadata '/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.PackageMetaData'
+[2023.09.08-04.39.22:500][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Quiz_Oriana_Pawn" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Pawn.uasset" SILENT=true
+[2023.09.08-04.39.23:256][708]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_Oriana_Pawn9995B621464331C0C96FB489564F2F58.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Pawn.uasset'
+[2023.09.08-04.39.23:257][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Choosuck_Quiz_2_Pawn.uasset" SILENT=true
+[2023.09.08-04.39.23:259][708]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Choosuck_Quiz_2_PawnA53B3E374380E2589222BD859572E264.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Choosuck_Quiz_2_Pawn.uasset'
+[2023.09.08-04.39.23:317][708]AssetCheck: New page: Asset Save: 애셋이 다수입니다.
+[2023.09.08-04.39.23:317][708]LogContentValidation: Display: Blueprint /Game/Quiz_Oriana/Quiz_Oriana_Pawn.Quiz_Oriana_Pawn 유효성 검사
+[2023.09.08-04.39.23:317][708]LogContentValidation: Display: ObjectRedirector /Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn 유효성 검사
+[2023.09.08-04.39.23:317][708]LogContentValidation: Display: ObjectRedirector /Game/Quiz_Oriana/Choosuck_Quiz_2_Pawn.Choosuck_Quiz_2_Pawn_C 유효성 검사
+[2023.09.08-04.39.33:655][925]LogSlate: Window '레퍼런스 뷰어' being destroyed
+[2023.09.08-04.39.33:660][925]LogSlate: Window '레퍼런스 뷰어' being destroyed
+[2023.09.08-04.39.41:345][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.09.08-04.39.41:435][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.09.08-04.39.41:435][811]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_Oriana_Sphere_Actor.Quiz_Oriana_Sphere_Actor_C' ref from Metadata '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.39.41:435][811]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_Oriana_Sphere_Actor.SKEL_Quiz_Oriana_Sphere_Actor_C' ref from Metadata '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.39.41:435][811]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_Oriana_Sphere_Actor.Quiz_Oriana_Sphere_Actor:AttachToPawn.K2Node_FunctionEntry_0' ref from Metadata '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.39.41:435][811]LogMetaData: Removing '/Game/Quiz_Oriana/Quiz_Oriana_Sphere_Actor.Quiz_Oriana_Sphere_Actor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Quiz_Oriana/Quiz_2_Sphere_Actor.PackageMetaData'
+[2023.09.08-04.39.41:465][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Quiz_Oriana_Sphere_Actor" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Sphere_Actor.uasset" SILENT=true
+[2023.09.08-04.39.41:485][811]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_Oriana_Sphere_Actor905B138040A0AA1CC86F85928E5F1FCA.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Sphere_Actor.uasset'
+[2023.09.08-04.39.41:584][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.09.08-04.39.41:619][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.09.08-04.39.41:647][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.09.08-04.39.41:662][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Quiz_Oriana_Pawn" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Pawn.uasset" SILENT=true
+[2023.09.08-04.39.41:700][811]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_Oriana_Pawn2F4D4036412EC005D87F59882C07C7EB.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Pawn.uasset'
+[2023.09.08-04.39.41:732][811]AssetCheck: New page: Asset Save: 애셋이 다수입니다.
+[2023.09.08-04.39.41:733][811]LogContentValidation: Display: Blueprint /Game/Quiz_Oriana/Quiz_Oriana_Sphere_Actor.Quiz_Oriana_Sphere_Actor 유효성 검사
+[2023.09.08-04.39.41:733][811]LogContentValidation: Display: Blueprint /Game/Quiz_Oriana/Quiz_Oriana_Pawn.Quiz_Oriana_Pawn 유효성 검사
+[2023.09.08-04.39.47:248][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Quiz_Oriana_Sphere_Actor_Mat" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Sphere_Actor_Mat.uasset" SILENT=true
+[2023.09.08-04.39.47:256][456]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_Oriana_Sphere_Actor_Mat78A838B344C35BB917B5779A7C9F2F59.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Sphere_Actor_Mat.uasset'
+[2023.09.08-04.39.47:340][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.09.08-04.39.47:373][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.09.08-04.39.47:401][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.09.08-04.39.47:414][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Quiz_Oriana_Sphere_Actor" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Sphere_Actor.uasset" SILENT=true
+[2023.09.08-04.39.47:436][456]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_Oriana_Sphere_ActorA48608DA47DB768E49CF45994A1B6E47.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Sphere_Actor.uasset'
+[2023.09.08-04.39.47:466][456]AssetCheck: New page: Asset Save: 애셋이 다수입니다.
+[2023.09.08-04.39.47:466][456]LogContentValidation: Display: Material /Game/Quiz_Oriana/Quiz_Oriana_Sphere_Actor_Mat.Quiz_Oriana_Sphere_Actor_Mat 유효성 검사
+[2023.09.08-04.39.47:466][456]LogContentValidation: Display: Blueprint /Game/Quiz_Oriana/Quiz_Oriana_Sphere_Actor.Quiz_Oriana_Sphere_Actor 유효성 검사
+[2023.09.08-04.39.51:547][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Quiz_Oriana_Sphere_Actor_Mat" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Sphere_Actor_Mat.uasset" SILENT=true
+[2023.09.08-04.39.51:550][933]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_Oriana_Sphere_Actor_Mat9E9F4492481677165C05DE859DDA43CF.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Sphere_Actor_Mat.uasset'
+[2023.09.08-04.39.51:550][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Color_Sphere_Actor_2" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Color_Sphere_Actor_2.uasset" SILENT=true
+[2023.09.08-04.39.51:555][933]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Color_Sphere_Actor_24D629FAF42298CD462D921B15BCF201F.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Color_Sphere_Actor_2.uasset'
+[2023.09.08-04.39.51:555][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Color_Sphere_Actor_2_Mat" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Color_Sphere_Actor_2_Mat.uasset" SILENT=true
+[2023.09.08-04.39.51:557][933]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Color_Sphere_Actor_2_Mat7800E3A94707E7EA3A2D159DB1961872.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Color_Sphere_Actor_2_Mat.uasset'
+[2023.09.08-04.39.51:558][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Quiz_Oriana_Level" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.08-04.39.51:585][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.09.08-04.39.51:714][933]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_Oriana_Level83841B984131CB3689D698A2E841C2AC.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Level.umap'
+[2023.09.08-04.39.51:725][933]LogFileHelpers: Saving map 'Quiz_Oriana_Level' took 0.167
+[2023.09.08-04.39.51:725][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Quiz_Oriana_Level_BuiltData" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Level_BuiltData.uasset" SILENT=true
+[2023.09.08-04.39.51:732][933]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_Oriana_Level_BuiltDataE27A1F7C4A2984A87DDF4985DEC17999.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Level_BuiltData.uasset'
+[2023.09.08-04.39.51:733][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Quiz_Oriana_Pawn" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Pawn.uasset" SILENT=true
+[2023.09.08-04.39.51:765][933]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_Oriana_Pawn908F46C54808016731E41F907F319C74.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Pawn.uasset'
+[2023.09.08-04.39.51:766][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_Oriana/Quiz_Oriana_Sphere_Actor" FILE="D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Sphere_Actor.uasset" SILENT=true
+[2023.09.08-04.39.51:781][933]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_Oriana_Sphere_Actor3AE4080745942E3136EA5DB3E6894124.tmp' to 'D:/Unreal4Project/Content/Quiz_Oriana/Quiz_Oriana_Sphere_Actor.uasset'
+[2023.09.08-04.39.51:795][933]AssetCheck: New page: Asset Save: 애셋이 다수입니다.
+[2023.09.08-04.39.51:795][933]LogContentValidation: Display: Material /Game/Quiz_Oriana/Quiz_Oriana_Sphere_Actor_Mat.Quiz_Oriana_Sphere_Actor_Mat 유효성 검사
+[2023.09.08-04.39.51:795][933]LogContentValidation: Display: Blueprint /Game/Quiz_Oriana/Color_Sphere_Actor_2.Color_Sphere_Actor_2 유효성 검사
+[2023.09.08-04.39.51:795][933]LogContentValidation: Display: Material /Game/Quiz_Oriana/Color_Sphere_Actor_2_Mat.Color_Sphere_Actor_2_Mat 유효성 검사
+[2023.09.08-04.39.51:795][933]LogContentValidation: Display: World /Game/Quiz_Oriana/Quiz_Oriana_Level.Quiz_Oriana_Level 유효성 검사
+[2023.09.08-04.39.51:795][933]LogContentValidation: Display: MapBuildDataRegistry /Game/Quiz_Oriana/Quiz_Oriana_Level_BuiltData.Quiz_Oriana_Level_BuiltData 유효성 검사
+[2023.09.08-04.39.51:795][933]LogContentValidation: Display: Blueprint /Game/Quiz_Oriana/Quiz_Oriana_Pawn.Quiz_Oriana_Pawn 유효성 검사
+[2023.09.08-04.39.51:795][933]LogContentValidation: Display: Blueprint /Game/Quiz_Oriana/Quiz_Oriana_Sphere_Actor.Quiz_Oriana_Sphere_Actor 유효성 검사
+[2023.09.08-04.40.00:948][ 12]LogBlueprint: Warning: [Compiler Pawn_Basic] Input Axis Event 가  Move_Up 입력 축  에 대해 알려지지 않은 'Move_Up' 축을 참조합니다.
+[2023.09.08-04.40.00:957][ 12]LogLinker: Warning: 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap' 로드 도중 '/Script/ApexDestruction' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.09.08-04.40.00:957][ 12]LogLinker: Warning: 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap' 로드 도중 '/Script/ApexDestruction' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.09.08-04.40.00:957][ 12]LogLinker: Warning: 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap' 로드 도중 '/Script/ApexDestruction' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.09.08-04.40.00:957][ 12]LogLinker: Warning: 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap' 로드 도중 '/Script/ApexDestruction' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.09.08-04.40.00:957][ 12]LogLinker: Warning: 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap' 로드 도중 '/Script/ApexDestruction' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.09.08-04.40.00:957][ 12]LogLinker: Warning: 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap' 로드 도중 '/Script/ApexDestruction' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.09.08-04.40.00:957][ 12]LogLinker: Warning: 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap' 로드 도중 '/Script/ApexDestruction' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.09.08-04.40.00:957][ 12]LogLinker: Warning: 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap' 로드 도중 '/Script/ApexDestruction' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.09.08-04.40.00:957][ 12]LogLinker: Warning: 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap' 로드 도중 '/Game/Geometry/Meshes/1M_Cube_DM' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.09.08-04.40.00:957][ 12]LogLinker: Warning: 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap' 로드 도중 '/Game/Geometry/Meshes/1M_Cube_DM' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.09.08-04.40.00:959][ 12]LogLinker: Warning: 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap' 로드 도중 '/Game/Geometry/Meshes/1M_Cube_DM' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.09.08-04.40.00:959][ 12]LogLinker: Warning: 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap' 로드 도중 '/Game/Geometry/Meshes/1M_Cube_DM' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.09.08-04.40.00:959][ 12]LogLinker: Warning: 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap' 로드 도중 '/Script/ApexDestruction' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.09.08-04.40.00:959][ 12]LogLinker: Warning: 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap' 로드 도중 '/Script/ApexDestruction' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.09.08-04.40.00:960][ 12]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2023.09.08-04.40.00:960][ 12]LogLinker: Warning: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2023.09.08-04.40.00:960][ 12]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2023.09.08-04.40.00:960][ 12]LogLinker: Warning: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2023.09.08-04.40.00:960][ 12]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2023.09.08-04.40.00:960][ 12]LogLinker: Warning: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2023.09.08-04.40.00:960][ 12]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2023.09.08-04.40.00:960][ 12]LogLinker: Warning: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2023.09.08-04.40.02:076][ 12]LogAIModule: Creating AISystem for world Quiz_5_Level
+[2023.09.08-04.40.02:110][ 12]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Quiz_5/Quiz_5_Level.Quiz_5_Level
+[2023.09.08-04.40.02:141][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.09.08-04.40.02:141][ 12]Cmd: MAP LOAD FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.08-04.40.02:141][ 12]LightingResults: New page: 라이팅 빌드
+[2023.09.08-04.40.02:142][ 12]LoadErrors: New page: 맵 로드중: Quiz_5_Level.umap
+[2023.09.08-04.40.02:144][ 12]LogWorld: UWorld::CleanupWorld for Quiz_Oriana_Level, bSessionEnded=true, bCleanupResources=true
+[2023.09.08-04.40.02:144][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.08-04.40.02:144][ 12]MapCheck: New page: 맵 체크
+[2023.09.08-04.40.02:144][ 12]LightingResults: New page: 라이팅 빌드
+[2023.09.08-04.40.02:176][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.09.08-04.40.02:329][ 12]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.08-04.40.02:358][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.09.08-04.40.02:367][ 12]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.08-04.40.02:368][ 12]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.079ms.
+[2023.09.08-04.40.02:368][ 12]LogFileHelpers: Loading map 'Quiz_5_Level' took 0.226
+[2023.09.08-04.40.02:385][ 12]PIE: Warning: 컨스트레인트 '/Engine/Transient.World_12:PersistentLevel.Quiz_5_Gyrodrop_C_0.PhysicsConstraint' 두 스태틱 오브젝트 사이에 조인트 생성 시도중입니다. 조인트가 생성되지 않았습니다.
+[2023.09.08-04.40.02:385][ 12]PIE: Warning: 컨스트레인트 '/Engine/Transient.World_12:PersistentLevel.Quiz_5_Gyrodrop_C_0.PhysicsConstraint1' 두 스태틱 오브젝트 사이에 조인트 생성 시도중입니다. 조인트가 생성되지 않았습니다.
+[2023.09.08-04.40.02:417][ 13]PIE: Warning: 컨스트레인트 '/Engine/Transient.World_14:PersistentLevel.Cylinder_Blueprint_C_0.PhysicsConstraint' 두 스태틱 오브젝트 사이에 조인트 생성 시도중입니다. 조인트가 생성되지 않았습니다.
+[2023.09.08-04.40.17:486][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_1_Level_BuiltData" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Level_BuiltData.uasset" SILENT=true
+[2023.09.08-04.40.17:489][665]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_1_Level_BuiltData9EEA31E94E7763341EF7FCBB0B1F5B12.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Level_BuiltData.uasset'
+[2023.09.08-04.40.17:489][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_1_Level" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.08-04.40.17:518][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.09.08-04.40.17:589][665]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_1_Level395D72F448EB7099C7EFD499D578539E.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Level.umap'
+[2023.09.08-04.40.18:520][665]LogFileHelpers: Saving map 'Quiz_5_1_Level' took 1.031
+[2023.09.08-04.40.18:679][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.08-04.40.18:709][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.08-04.40.18:745][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.09.08-04.40.18:775][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.09.08-04.40.18:796][665]AssetCheck: New page: Asset Save: 애셋이 다수입니다.
+[2023.09.08-04.40.18:796][665]LogContentValidation: Display: MapBuildDataRegistry /Game/Quiz_5/Quiz_5_1_Level_BuiltData.Quiz_5_1_Level_BuiltData 유효성 검사
+[2023.09.08-04.40.18:796][665]LogContentValidation: Display: World /Game/Quiz_5/Quiz_5_1_Level.Quiz_5_1_Level 유효성 검사
+[2023.09.08-04.40.23:707][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.09.08-04.40.23:707][223]LogMetaData: Removing '/Game/Quiz_5/Quiz_5_1_Pawn.Quiz_5_1_Pawn_C' ref from Metadata '/Game/Quiz_5/Quiz_5_Pawn.PackageMetaData'
+[2023.09.08-04.40.23:707][223]LogMetaData: Removing '/Game/Quiz_5/Quiz_5_1_Pawn.Quiz_5_1_Pawn:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Quiz_5/Quiz_5_Pawn.PackageMetaData'
+[2023.09.08-04.40.23:707][223]LogMetaData: Removing '/Game/Quiz_5/Quiz_5_1_Pawn.SKEL_Quiz_5_1_Pawn_C' ref from Metadata '/Game/Quiz_5/Quiz_5_Pawn.PackageMetaData'
+[2023.09.08-04.40.23:724][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_1_Pawn" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Pawn.uasset" SILENT=true
+[2023.09.08-04.40.23:736][223]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_1_Pawn63506D31410A6FA1147795891D0B843C.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Pawn.uasset'
+[2023.09.08-04.40.23:737][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_Pawn" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_Pawn.uasset" SILENT=true
+[2023.09.08-04.40.23:738][223]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_Pawn941C72F4402F0CC9881D4BA50D9B823C.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Pawn.uasset'
+[2023.09.08-04.40.23:767][223]AssetCheck: New page: Asset Save: 애셋이 다수입니다.
+[2023.09.08-04.40.23:767][223]LogContentValidation: Display: Blueprint /Game/Quiz_5/Quiz_5_1_Pawn.Quiz_5_1_Pawn 유효성 검사
+[2023.09.08-04.40.23:767][223]LogContentValidation: Display: ObjectRedirector /Game/Quiz_5/Quiz_5_Pawn.Quiz_5_Pawn 유효성 검사
+[2023.09.08-04.40.23:767][223]LogContentValidation: Display: ObjectRedirector /Game/Quiz_5/Quiz_5_Pawn.Quiz_5_Pawn_C 유효성 검사
+[2023.09.08-04.40.29:278][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.09.08-04.40.29:356][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.09.08-04.40.29:356][868]LogMetaData: Removing '/Game/Quiz_5/Quiz_5_1_Widget.Quiz_5_1_Widget_C' ref from Metadata '/Game/Quiz_5/Quiz_5_Widget.PackageMetaData'
+[2023.09.08-04.40.29:356][868]LogMetaData: Removing '/Game/Quiz_5/Quiz_5_1_Widget.Quiz_5_1_Widget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Quiz_5/Quiz_5_Widget.PackageMetaData'
+[2023.09.08-04.40.29:356][868]LogMetaData: Removing '/Game/Quiz_5/Quiz_5_1_Widget.Quiz_5_1_Widget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Quiz_5/Quiz_5_Widget.PackageMetaData'
+[2023.09.08-04.40.29:356][868]LogMetaData: Removing '/Game/Quiz_5/Quiz_5_1_Widget.Quiz_5_1_Widget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Quiz_5/Quiz_5_Widget.PackageMetaData'
+[2023.09.08-04.40.29:356][868]LogMetaData: Removing '/Game/Quiz_5/Quiz_5_1_Widget.SKEL_Quiz_5_1_Widget_C' ref from Metadata '/Game/Quiz_5/Quiz_5_Widget.PackageMetaData'
+[2023.09.08-04.40.29:378][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_1_Widget" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Widget.uasset" SILENT=true
+[2023.09.08-04.40.29:382][868]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_1_Widget04F092144DB87D49C2D9C790993F4070.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Widget.uasset'
+[2023.09.08-04.40.29:487][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.09.08-04.40.29:520][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.09.08-04.40.29:548][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.08-04.40.29:564][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_1_Pawn" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Pawn.uasset" SILENT=true
+[2023.09.08-04.40.29:575][868]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_1_Pawn1E2ABC3D4B35580367FEDE8C10914904.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Pawn.uasset'
+[2023.09.08-04.40.29:602][868]AssetCheck: New page: Asset Save: 애셋이 다수입니다.
+[2023.09.08-04.40.29:602][868]LogContentValidation: Display: WidgetBlueprint /Game/Quiz_5/Quiz_5_1_Widget.Quiz_5_1_Widget 유효성 검사
+[2023.09.08-04.40.29:602][868]LogContentValidation: Display: Blueprint /Game/Quiz_5/Quiz_5_1_Pawn.Quiz_5_1_Pawn 유효성 검사
+[2023.09.08-04.40.36:383][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.09.08-04.40.36:384][655]LogMetaData: Removing '/Game/Quiz_5/Quiz_5_1_Gyrodrop.Quiz_5_1_Gyrodrop:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Quiz_5/Quiz_5_Gyrodrop.PackageMetaData'
+[2023.09.08-04.40.36:384][655]LogMetaData: Removing '/Game/Quiz_5/Quiz_5_1_Gyrodrop.Quiz_5_1_Gyrodrop_C' ref from Metadata '/Game/Quiz_5/Quiz_5_Gyrodrop.PackageMetaData'
+[2023.09.08-04.40.36:384][655]LogMetaData: Removing '/Game/Quiz_5/Quiz_5_1_Gyrodrop.Quiz_5_1_Gyrodrop:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Quiz_5/Quiz_5_Gyrodrop.PackageMetaData'
+[2023.09.08-04.40.36:384][655]LogMetaData: Removing '/Game/Quiz_5/Quiz_5_1_Gyrodrop.Quiz_5_1_Gyrodrop:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Quiz_5/Quiz_5_Gyrodrop.PackageMetaData'
+[2023.09.08-04.40.36:384][655]LogMetaData: Removing '/Game/Quiz_5/Quiz_5_1_Gyrodrop.Quiz_5_1_Gyrodrop:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Quiz_5/Quiz_5_Gyrodrop.PackageMetaData'
+[2023.09.08-04.40.36:384][655]LogMetaData: Removing '/Game/Quiz_5/Quiz_5_1_Gyrodrop.SKEL_Quiz_5_1_Gyrodrop_C' ref from Metadata '/Game/Quiz_5/Quiz_5_Gyrodrop.PackageMetaData'
+[2023.09.08-04.40.36:403][655]PIE: Warning: 컨스트레인트 '/Engine/Transient.World_15:PersistentLevel.Quiz_5_1_Gyrodrop_C_0.PhysicsConstraint' 두 스태틱 오브젝트 사이에 조인트 생성 시도중입니다. 조인트가 생성되지 않았습니다.
+[2023.09.08-04.40.36:403][655]PIE: Warning: 컨스트레인트 '/Engine/Transient.World_15:PersistentLevel.Quiz_5_1_Gyrodrop_C_0.PhysicsConstraint1' 두 스태틱 오브젝트 사이에 조인트 생성 시도중입니다. 조인트가 생성되지 않았습니다.
+[2023.09.08-04.40.36:410][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_1_Gyrodrop" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Gyrodrop.uasset" SILENT=true
+[2023.09.08-04.40.36:421][655]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_1_Gyrodrop0EA078E44DFB6C3C1547C79D12942BC6.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Gyrodrop.uasset'
+[2023.09.08-04.40.36:422][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_Gyrodrop" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_Gyrodrop.uasset" SILENT=true
+[2023.09.08-04.40.36:424][655]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_GyrodropC3BB83B045369134C67CA2B9A67E1ACB.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Gyrodrop.uasset'
+[2023.09.08-04.40.36:453][655]AssetCheck: New page: Asset Save: 애셋이 다수입니다.
+[2023.09.08-04.40.36:453][655]LogContentValidation: Display: Blueprint /Game/Quiz_5/Quiz_5_1_Gyrodrop.Quiz_5_1_Gyrodrop 유효성 검사
+[2023.09.08-04.40.36:453][655]LogContentValidation: Display: ObjectRedirector /Game/Quiz_5/Quiz_5_Gyrodrop.Quiz_5_Gyrodrop 유효성 검사
+[2023.09.08-04.40.36:453][655]LogContentValidation: Display: ObjectRedirector /Game/Quiz_5/Quiz_5_Gyrodrop.Quiz_5_Gyrodrop_C 유효성 검사
+[2023.09.08-04.40.37:392][764]LogAIModule: Creating AISystem for world ChoosuckQuiz_1_Level
+[2023.09.08-04.40.43:507][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_Level_BuiltData" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level_BuiltData.uasset" SILENT=true
+[2023.09.08-04.40.43:511][481]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_Level_BuiltData5BFA4EA243267B5838AE1D987D8E37F3.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level_BuiltData.uasset'
+[2023.09.08-04.40.43:512][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_Level" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.08-04.40.43:540][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.09.08-04.40.43:548][481]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_LevelD05D827B462118FC46B5AEBBD95B4CDE.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap'
+[2023.09.08-04.40.43:551][481]LogFileHelpers: Saving map 'Quiz_5_Level' took 0.039
+[2023.09.08-04.40.43:682][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.09.08-04.40.43:711][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.08-04.40.43:746][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.09.08-04.40.43:774][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.09.08-04.40.43:794][481]AssetCheck: New page: Asset Save: 애셋이 다수입니다.
+[2023.09.08-04.40.43:794][481]LogContentValidation: Display: MapBuildDataRegistry /Game/Quiz_5/Quiz_5_Level_BuiltData.Quiz_5_Level_BuiltData 유효성 검사
+[2023.09.08-04.40.43:794][481]LogContentValidation: Display: World /Game/Quiz_5/Quiz_5_Level.Quiz_5_Level 유효성 검사
+[2023.09.08-04.40.57:019][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_Level_BuiltData" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level_BuiltData.uasset" SILENT=true
+[2023.09.08-04.40.57:024][ 32]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_Level_BuiltData5DE8ED46402B8694C8DF2A902530108D.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level_BuiltData.uasset'
+[2023.09.08-04.40.57:030][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Actor" FILE="D:/Unreal4Project/Content/Quiz_5/Actor.uasset" SILENT=true
+[2023.09.08-04.40.57:038][ 32]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Actor6217C7DC459FF76AD655CABF0A747F14.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Actor.uasset'
+[2023.09.08-04.40.57:039][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Choosuck_Quiz_1_Pawn" FILE="D:/Unreal4Project/Content/Quiz_5/Choosuck_Quiz_1_Pawn.uasset" SILENT=true
+[2023.09.08-04.40.57:055][ 32]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Choosuck_Quiz_1_Pawn019774694C8E1C21A3568F855B62A5C6.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Choosuck_Quiz_1_Pawn.uasset'
+[2023.09.08-04.40.57:055][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Color_Sphere_Actor" FILE="D:/Unreal4Project/Content/Quiz_5/Color_Sphere_Actor.uasset" SILENT=true
+[2023.09.08-04.40.57:059][ 32]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Color_Sphere_ActorEFA00742442A5B156E92C898A64B1769.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Color_Sphere_Actor.uasset'
+[2023.09.08-04.40.57:061][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Color_Sphere_Actor_Mat" FILE="D:/Unreal4Project/Content/Quiz_5/Color_Sphere_Actor_Mat.uasset" SILENT=true
+[2023.09.08-04.40.57:063][ 32]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Color_Sphere_Actor_MatE6D10F4345A765EB1AC7C58E75276561.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Color_Sphere_Actor_Mat.uasset'
+[2023.09.08-04.40.57:068][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Cylinder_Blueprint" FILE="D:/Unreal4Project/Content/Quiz_5/Cylinder_Blueprint.uasset" SILENT=true
+[2023.09.08-04.40.57:077][ 32]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Cylinder_Blueprint00FD4BAC4C334456842164BCAF7CC3AE.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Cylinder_Blueprint.uasset'
+[2023.09.08-04.40.57:077][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_1_Gyrodrop" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Gyrodrop.uasset" SILENT=true
+[2023.09.08-04.40.57:083][ 32]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_1_GyrodropCA80DE5E43707CAC93D61B8FE14F351D.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Gyrodrop.uasset'
+[2023.09.08-04.40.57:084][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_1_Level" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.08-04.40.57:109][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.09.08-04.40.57:171][ 32]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_1_LevelE2A3C97C43F3BD05DE5832A35F10C4F7.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Level.umap'
+[2023.09.08-04.40.57:180][ 32]LogFileHelpers: Saving map 'Quiz_5_1_Level' took 0.097
+[2023.09.08-04.40.57:180][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_1_Level_BuiltData" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Level_BuiltData.uasset" SILENT=true
+[2023.09.08-04.40.57:186][ 32]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_1_Level_BuiltDataBFBD7FCE4A2C23110683838834BF89A2.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Level_BuiltData.uasset'
+[2023.09.08-04.40.57:186][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_1_Pawn" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Pawn.uasset" SILENT=true
+[2023.09.08-04.40.57:197][ 32]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_1_Pawn5BF9A10041D07A96F1AC49B8480C400C.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Pawn.uasset'
+[2023.09.08-04.40.57:198][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_1_Widget" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Widget.uasset" SILENT=true
+[2023.09.08-04.40.57:202][ 32]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_1_WidgetA3F733304752206D068C67ABFEDDC40F.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Widget.uasset'
+[2023.09.08-04.40.57:202][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_Level" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.08-04.40.57:231][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.09.08-04.40.57:242][ 32]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_Level6FFF0A28499F416AAD7D57834C701175.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap'
+[2023.09.08-04.40.57:244][ 32]LogFileHelpers: Saving map 'Quiz_5_Level' took 0.043
+[2023.09.08-04.40.57:263][ 32]AssetCheck: New page: Asset Save: 애셋이 다수입니다.
+[2023.09.08-04.40.57:263][ 32]LogContentValidation: Display: MapBuildDataRegistry /Game/Quiz_5/Quiz_5_Level_BuiltData.Quiz_5_Level_BuiltData 유효성 검사
+[2023.09.08-04.40.57:264][ 32]LogContentValidation: Display: Blueprint /Game/Quiz_5/Actor.Actor 유효성 검사
+[2023.09.08-04.40.57:264][ 32]LogContentValidation: Display: Blueprint /Game/Quiz_5/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn 유효성 검사
+[2023.09.08-04.40.57:264][ 32]LogContentValidation: Display: Blueprint /Game/Quiz_5/Color_Sphere_Actor.Color_Sphere_Actor 유효성 검사
+[2023.09.08-04.40.57:264][ 32]LogContentValidation: Display: Material /Game/Quiz_5/Color_Sphere_Actor_Mat.Color_Sphere_Actor_Mat 유효성 검사
+[2023.09.08-04.40.57:264][ 32]LogContentValidation: Display: Blueprint /Game/Quiz_5/Cylinder_Blueprint.Cylinder_Blueprint 유효성 검사
+[2023.09.08-04.40.57:264][ 32]LogContentValidation: Display: Blueprint /Game/Quiz_5/Quiz_5_1_Gyrodrop.Quiz_5_1_Gyrodrop 유효성 검사
+[2023.09.08-04.40.57:264][ 32]LogContentValidation: Display: World /Game/Quiz_5/Quiz_5_1_Level.Quiz_5_1_Level 유효성 검사
+[2023.09.08-04.40.57:264][ 32]LogContentValidation: Display: MapBuildDataRegistry /Game/Quiz_5/Quiz_5_1_Level_BuiltData.Quiz_5_1_Level_BuiltData 유효성 검사
+[2023.09.08-04.40.57:264][ 32]LogContentValidation: Display: Blueprint /Game/Quiz_5/Quiz_5_1_Pawn.Quiz_5_1_Pawn 유효성 검사
+[2023.09.08-04.40.57:264][ 32]LogContentValidation: Display: WidgetBlueprint /Game/Quiz_5/Quiz_5_1_Widget.Quiz_5_1_Widget 유효성 검사
+[2023.09.08-04.40.57:264][ 32]LogContentValidation: Display: World /Game/Quiz_5/Quiz_5_Level.Quiz_5_Level 유효성 검사
+[2023.09.08-04.41.00:238][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.09.08-04.41.00:546][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.09.08-04.41.00:579][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.09.08-04.41.00:608][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.09.08-04.41.02:040][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.09.08-04.41.02:880][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.09.08-04.41.02:907][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.08-04.41.02:942][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.09.08-04.41.02:971][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.09.08-04.41.08:847][209]LogBlueprint: Warning: [Compiler Quiz_5_Pawn] Input Axis Event 가  Move_Up 입력 축  에 대해 알려지지 않은 'Move_Up' 축을 참조합니다.
+[2023.09.08-04.41.08:924][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.09.08-04.41.08:925][209]LogMetaData: Removing '/Game/Quiz_5/Quiz_5_Pawn.Quiz_5_Pawn_C' ref from Metadata '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.41.08:925][209]LogMetaData: Removing '/Game/Quiz_5/Quiz_5_Pawn.SKEL_Quiz_5_Pawn_C' ref from Metadata '/Game/Quiz_5/Choosuck_Quiz_1_Pawn.PackageMetaData'
+[2023.09.08-04.41.08:944][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_Pawn" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_Pawn.uasset" SILENT=true
+[2023.09.08-04.41.08:960][209]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_Pawn085DE5DF455ADCF78B1B4B883C71C68B.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Pawn.uasset'
+[2023.09.08-04.41.08:962][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Choosuck_Quiz_1_Pawn" FILE="D:/Unreal4Project/Content/Quiz_5/Choosuck_Quiz_1_Pawn.uasset" SILENT=true
+[2023.09.08-04.41.08:963][209]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Choosuck_Quiz_1_Pawn8FE5DE2247D4E4215FD2F895AF7FEE0D.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Choosuck_Quiz_1_Pawn.uasset'
+[2023.09.08-04.41.08:990][209]AssetCheck: New page: Asset Save: 애셋이 다수입니다.
+[2023.09.08-04.41.08:990][209]LogContentValidation: Display: Blueprint /Game/Quiz_5/Quiz_5_Pawn.Quiz_5_Pawn 유효성 검사
+[2023.09.08-04.41.08:990][209]LogContentValidation: Display: ObjectRedirector /Game/Quiz_5/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn 유효성 검사
+[2023.09.08-04.41.08:990][209]LogContentValidation: Display: ObjectRedirector /Game/Quiz_5/Choosuck_Quiz_1_Pawn.Choosuck_Quiz_1_Pawn_C 유효성 검사
+[2023.09.08-04.41.18:152][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_Pawn" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_Pawn.uasset" SILENT=true
+[2023.09.08-04.41.18:169][277]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_Pawn05523FBE424FBDBF77478E91B51F9615.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Pawn.uasset'
+[2023.09.08-04.41.18:170][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Actor" FILE="D:/Unreal4Project/Content/Quiz_5/Actor.uasset" SILENT=true
+[2023.09.08-04.41.18:173][277]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Actor4A085E864A5568E57CAA868D387FA0E6.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Actor.uasset'
+[2023.09.08-04.41.18:174][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Color_Sphere_Actor" FILE="D:/Unreal4Project/Content/Quiz_5/Color_Sphere_Actor.uasset" SILENT=true
+[2023.09.08-04.41.18:177][277]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Color_Sphere_Actor9E0536AA41D7DAA1A15A9AA5FAA62442.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Color_Sphere_Actor.uasset'
+[2023.09.08-04.41.18:177][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Color_Sphere_Actor_Mat" FILE="D:/Unreal4Project/Content/Quiz_5/Color_Sphere_Actor_Mat.uasset" SILENT=true
+[2023.09.08-04.41.18:179][277]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Color_Sphere_Actor_MatDAD0A2FE46D35C06D9AF738F7C3D4B6F.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Color_Sphere_Actor_Mat.uasset'
+[2023.09.08-04.41.18:179][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Cylinder_Blueprint" FILE="D:/Unreal4Project/Content/Quiz_5/Cylinder_Blueprint.uasset" SILENT=true
+[2023.09.08-04.41.18:184][277]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Cylinder_Blueprint54A0937B4AB42F90B750FCB5083AAA8B.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Cylinder_Blueprint.uasset'
+[2023.09.08-04.41.18:184][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_1_Gyrodrop" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Gyrodrop.uasset" SILENT=true
+[2023.09.08-04.41.18:189][277]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_1_Gyrodrop23F0623C45CA382947B2CBBD68D5F23A.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Gyrodrop.uasset'
+[2023.09.08-04.41.18:190][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_1_Level" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.08-04.41.18:216][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.09.08-04.41.18:277][277]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_1_Level290945DE45D4DF958BE2D9B2C10B7BF8.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Level.umap'
+[2023.09.08-04.41.18:287][277]LogFileHelpers: Saving map 'Quiz_5_1_Level' took 0.097
+[2023.09.08-04.41.18:287][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_1_Level_BuiltData" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Level_BuiltData.uasset" SILENT=true
+[2023.09.08-04.41.18:290][277]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_1_Level_BuiltData3057FA65497BF6AE30824D999D395D89.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Level_BuiltData.uasset'
+[2023.09.08-04.41.18:290][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_1_Pawn" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Pawn.uasset" SILENT=true
+[2023.09.08-04.41.18:300][277]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_1_PawnC0526C8B4CAD3EE782B6A5ABAF30D958.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Pawn.uasset'
+[2023.09.08-04.41.18:301][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_1_Widget" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Widget.uasset" SILENT=true
+[2023.09.08-04.41.18:304][277]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_1_WidgetF08032194A9418F00CAD0E90CFE521A7.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_1_Widget.uasset'
+[2023.09.08-04.41.18:305][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_Level" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.08-04.41.18:333][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.09.08-04.41.18:342][277]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_LevelEA17D2EB4B7B587741C24BBE19848F88.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level.umap'
+[2023.09.08-04.41.18:344][277]LogFileHelpers: Saving map 'Quiz_5_Level' took 0.038
+[2023.09.08-04.41.18:344][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_5/Quiz_5_Level_BuiltData" FILE="D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level_BuiltData.uasset" SILENT=true
+[2023.09.08-04.41.18:349][277]LogSavePackage: Moving 'D:/Unreal4Project/Saved/Quiz_5_Level_BuiltData647CE1754E7C7579DBC8CCB970A1B1BE.tmp' to 'D:/Unreal4Project/Content/Quiz_5/Quiz_5_Level_BuiltData.uasset'
+[2023.09.08-04.41.18:371][277]AssetCheck: New page: Asset Save: 애셋이 다수입니다.
+[2023.09.08-04.41.18:371][277]LogContentValidation: Display: Blueprint /Game/Quiz_5/Quiz_5_Pawn.Quiz_5_Pawn 유효성 검사
+[2023.09.08-04.41.18:371][277]LogContentValidation: Display: Blueprint /Game/Quiz_5/Actor.Actor 유효성 검사
+[2023.09.08-04.41.18:371][277]LogContentValidation: Display: Blueprint /Game/Quiz_5/Color_Sphere_Actor.Color_Sphere_Actor 유효성 검사
+[2023.09.08-04.41.18:371][277]LogContentValidation: Display: Material /Game/Quiz_5/Color_Sphere_Actor_Mat.Color_Sphere_Actor_Mat 유효성 검사
+[2023.09.08-04.41.18:371][277]LogContentValidation: Display: Blueprint /Game/Quiz_5/Cylinder_Blueprint.Cylinder_Blueprint 유효성 검사
+[2023.09.08-04.41.18:371][277]LogContentValidation: Display: Blueprint /Game/Quiz_5/Quiz_5_1_Gyrodrop.Quiz_5_1_Gyrodrop 유효성 검사
+[2023.09.08-04.41.18:371][277]LogContentValidation: Display: World /Game/Quiz_5/Quiz_5_1_Level.Quiz_5_1_Level 유효성 검사
+[2023.09.08-04.41.18:371][277]LogContentValidation: Display: MapBuildDataRegistry /Game/Quiz_5/Quiz_5_1_Level_BuiltData.Quiz_5_1_Level_BuiltData 유효성 검사
+[2023.09.08-04.41.18:371][277]LogContentValidation: Display: Blueprint /Game/Quiz_5/Quiz_5_1_Pawn.Quiz_5_1_Pawn 유효성 검사
+[2023.09.08-04.41.18:371][277]LogContentValidation: Display: WidgetBlueprint /Game/Quiz_5/Quiz_5_1_Widget.Quiz_5_1_Widget 유효성 검사
+[2023.09.08-04.41.18:371][277]LogContentValidation: Display: World /Game/Quiz_5/Quiz_5_Level.Quiz_5_Level 유효성 검사
+[2023.09.08-04.41.18:371][277]LogContentValidation: Display: MapBuildDataRegistry /Game/Quiz_5/Quiz_5_Level_BuiltData.Quiz_5_Level_BuiltData 유효성 검사
+[2023.09.08-04.41.23:270][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.09.08-04.41.23:949][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.09.08-04.41.23:976][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.09.08-04.41.24:009][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.09.08-04.41.24:035][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.08-04.43.33:279][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.09.08-04.43.36:086][982]LogSlate: Window '애셋 리포트' being destroyed
+[2023.09.08-04.43.38:999][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.09.08-04.43.59:959][817]LogSlate: Window '애셋 리포트' being destroyed
+[2023.09.08-04.44.06:091][817]AssetTools: New page: 콘텐츠 이주가 성공적으로 완료되었습니다!
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Oriana/Color_Sphere_Actor_2_Mat
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Oriana/Quiz_Oriana_Sphere_Actor_Mat
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Oriana/Quiz_Oriana_Sphere_Actor
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Oriana/Color_Sphere_Actor_2
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Oriana/Quiz_Oriana_Pawn
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Pawn_Basic
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Zed/Quiz_Zed_Anim_Living_Shadow
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Zed/Quiz_Zed_Anim_Living_Shadow_Arrive
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Zed/Quiz_Zed_Anim_Razor_Shuriken
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Zed/Quiz_Zed_Anim_Shadow_Return
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Zed/Quiz_Zed_Anim_Shadow_Slash
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Zed/Quiz_Zed_Cube_Actor
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Zed/Quiz_Zed_Cube_DM_Actor
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Zed/Quiz_Zed_Level
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Zed/Zed_Character
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Zed/Zed_Anim_BP
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Zed/Quiz_Zed_Shuriken_Actor
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Zed/SM_Shuriken
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Zed/Shuriken_MAt
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Zed/T_Shuriken_D
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Zed/Zed_Shadow
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Zed/Quiz_Zed_Shuriken_Actor_2
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Zed/Quiz_Zed_Level_BuiltData
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Oriana/Quiz_Oriana_Level_BuiltData
+[2023.09.08-04.44.06:091][817]AssetTools: /Game/Quiz_Oriana/Quiz_Oriana_Level
+[2023.09.08-04.44.14:462][756]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.09.08-04.44.14:933][756]LogMaterial: Display: Missing cached shader map for material GenericHMDMaterial, compiling. 
+[2023.09.08-04.44.15:044][756]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 15
+[2023.09.08-04.44.15:044][756]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 14
+[2023.09.08-04.44.15:044][756]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 13
+[2023.09.08-04.44.15:044][756]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 12
+[2023.09.08-04.44.15:044][756]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 11
+[2023.09.08-04.44.15:044][756]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 10
+[2023.09.08-04.44.15:045][756]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 9
+[2023.09.08-04.44.15:045][756]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 8
+[2023.09.08-04.44.15:045][756]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 7
+[2023.09.08-04.44.15:045][756]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 6
+[2023.09.08-04.44.15:045][756]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 5
+[2023.09.08-04.44.15:045][756]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 4
+[2023.09.08-04.44.15:045][756]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 3
+[2023.09.08-04.44.15:045][756]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 2
+[2023.09.08-04.44.15:045][756]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 1
+[2023.09.08-04.44.15:047][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.09.08-04.44.17:509][756]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.08-04.44.19:393][756]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.08-04.44.22:117][ 68]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.09.08-04.44.22:847][ 68]LogBlueprint: Warning: [Compiler HMDLocomotionPawn] InputAction Event 가  HMDTeleport 입력 액션  에 대해 알려지지 않은 'HMDTeleport' 액션을 참조합니다.
+[2023.09.08-04.44.22:848][ 68]LogBlueprint: Warning: [Compiler HMDLocomotionPawn] Get Input Axis 에서  TeleportDirectionRight 구하기  에 대해 알려지지 않은 'TeleportDirectionRight' 축을 참조합니다.
+[2023.09.08-04.44.22:848][ 68]LogBlueprint: Warning: [Compiler HMDLocomotionPawn] Get Input Axis 에서  TeleportDirectionUp 구하기  에 대해 알려지지 않은 'TeleportDirectionUp' 축을 참조합니다.
+[2023.09.08-04.44.22:849][ 68]LogBlueprint: Warning: [Compiler HMDLocomotionPawn] Get Input Axis 에서  TeleportDirectionRight 구하기  에 대해 알려지지 않은 'TeleportDirectionRight' 축을 참조합니다.
+[2023.09.08-04.44.22:849][ 68]LogBlueprint: Warning: [Compiler HMDLocomotionPawn] Get Input Axis 에서  TeleportDirectionUp 구하기  에 대해 알려지지 않은 'TeleportDirectionUp' 축을 참조합니다.
+[2023.09.08-04.44.22:874][ 68]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis 에서  MotionControllerThumbRight_X 구하기  에 대해 알려지지 않은 'MotionControllerThumbRight_X' 축을 참조합니다.
+[2023.09.08-04.44.22:874][ 68]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis 에서  MotionControllerThumbRight_Y 구하기  에 대해 알려지지 않은 'MotionControllerThumbRight_Y' 축을 참조합니다.
+[2023.09.08-04.44.22:874][ 68]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis 에서  MotionControllerThumbLeft_Y 구하기  에 대해 알려지지 않은 'MotionControllerThumbLeft_Y' 축을 참조합니다.
+[2023.09.08-04.44.22:874][ 68]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis 에서  MotionControllerThumbLeft_X 구하기  에 대해 알려지지 않은 'MotionControllerThumbLeft_X' 축을 참조합니다.
+[2023.09.08-04.44.22:874][ 68]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event 가  TeleportRight 입력 액션  에 대해 알려지지 않은 'TeleportRight' 액션을 참조합니다.
+[2023.09.08-04.44.22:874][ 68]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event 가  TeleportLeft 입력 액션  에 대해 알려지지 않은 'TeleportLeft' 액션을 참조합니다.
+[2023.09.08-04.44.22:874][ 68]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event 가  GrabRight 입력 액션  에 대해 알려지지 않은 'GrabRight' 액션을 참조합니다.
+[2023.09.08-04.44.22:874][ 68]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event 가  GrabLeft 입력 액션  에 대해 알려지지 않은 'GrabLeft' 액션을 참조합니다.
+[2023.09.08-04.44.23:077][ 68]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_5 (G8, 32X32)
+[2023.09.08-04.44.23:077][ 68]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_4 (G8, 1024X256)
+[2023.09.08-04.44.23:077][ 68]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2023.09.08-04.44.23:077][ 68]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2023.09.08-04.44.23:077][ 68]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_3 (G8, 1024X512)
+[2023.09.08-04.44.23:077][ 68]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2023.09.08-04.44.23:077][ 68]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2023.09.08-04.44.23:077][ 68]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2023.09.08-04.44.23:077][ 68]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2023.09.08-04.44.23:085][ 68]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2023.09.08-04.44.23:238][ 68]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_2 (G8, 32X32)
+[2023.09.08-04.44.23:238][ 68]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2023.09.08-04.44.23:238][ 68]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2023.09.08-04.44.23:238][ 68]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_1 (G8, 1024X256)
+[2023.09.08-04.44.23:238][ 68]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_0 (G8, 1024X512)
+[2023.09.08-04.44.23:238][ 68]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2023.09.08-04.44.23:238][ 68]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2023.09.08-04.44.23:238][ 68]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2023.09.08-04.44.23:238][ 68]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2023.09.08-04.44.23:244][ 68]LogAIModule: Creating AISystem for world MotionControllerMap
+[2023.09.08-04.44.23:269][ 68]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_0 (BGRA8, 256X256)
+[2023.09.08-04.44.23:269][ 68]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2023.09.08-04.44.23:269][ 68]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2023.09.08-04.44.23:269][ 68]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2023.09.08-04.44.23:274][ 68]LogAIModule: Creating AISystem for world StartupMap
+[2023.09.08-04.44.23:275][ 68]LogObjectTools: Deleting 3 worlds: /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap, /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap, /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2023.09.08-04.44.23:275][ 68]LogObjectTools: Currently 18 active worlds: /Game/Quiz_5/Quiz_5_1_Level.Quiz_5_1_Level, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14, /Engine/Transient.World_15, /Engine/Transient.World_16
+[2023.09.08-04.44.23:309][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.09.08-04.44.29:134][ 68]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.08-04.45.10:950][ 68]LogUObjectGlobals: Force Deleting 41 Package(s):
+	Asset Name: /Game/VirtualRealityBP/Blueprints/PickupActorInterface.PickupActorInterface
+	Asset Name: /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.MannequinHand_Right_Skeleton
+	Asset Name: /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+	Asset Name: /Game/VirtualRealityBP/Blueprints/MotionControllerHaptics.MotionControllerHaptics
+	Asset Name: /Game/VirtualReality/Materials/MI_TeleportCylinderPreview.MI_TeleportCylinderPreview
+	Asset Name: /Game/VirtualReality/Materials/MI_ChaperoneOutline.MI_ChaperoneOutline
+	Asset Name: /Game/VirtualReality/Materials/M_TeleportPreviews.M_TeleportPreviews
+	Asset Name: /Game/VirtualReality/Meshes/1x1_cube.1x1_cube
+	Asset Name: /Game/VirtualReality/Meshes/SM_FatCylinder.SM_FatCylinder
+	Asset Name: /Game/VirtualReality/Meshes/BeaconDirection.BeaconDirection
+[2023.09.08-04.45.11:947][ 68]LogMaterial: Display: Missing cached shader map for material M_SplineArcMat, compiling. 
+[2023.09.08-04.45.11:947][ 68]LogMaterial: Warning: D:\Unreal4Project\Content\VirtualReality\Materials\M_SplineArcMat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.09.08-04.45.11:947][ 68]LogMaterial: Display: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2023.09.08-04.45.11:947][ 68]LogMaterial: Display: 	Missing Material Function
+[2023.09.08-04.45.11:949][ 68]LogMaterial: Display: Missing cached shader map for material M_SplineArcMat, compiling. 
+[2023.09.08-04.45.11:950][ 68]LogMaterial: Warning: D:\Unreal4Project\Content\VirtualReality\Materials\M_SplineArcMat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.09.08-04.45.11:950][ 68]LogMaterial: Display: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2023.09.08-04.45.11:950][ 68]LogMaterial: Display: 	Missing Material Function
+[2023.09.08-04.45.11:952][ 68]LogMaterial: Display: Missing cached shader map for material M_SplineArcMat, compiling. 
+[2023.09.08-04.45.11:952][ 68]LogMaterial: Warning: D:\Unreal4Project\Content\VirtualReality\Materials\M_SplineArcMat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.09.08-04.45.11:952][ 68]LogMaterial: Display: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2023.09.08-04.45.11:952][ 68]LogMaterial: Display: 	Missing Material Function
+[2023.09.08-04.45.11:954][ 68]LogMaterial: Display: Missing cached shader map for material M_SplineArcMat, compiling. 
+[2023.09.08-04.45.11:954][ 68]LogMaterial: Warning: D:\Unreal4Project\Content\VirtualReality\Materials\M_SplineArcMat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.09.08-04.45.11:954][ 68]LogMaterial: Display: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2023.09.08-04.45.11:954][ 68]LogMaterial: Display: 	Missing Material Function
+[2023.09.08-04.45.11:956][ 68]LogMaterial: Display: Missing cached shader map for material M_SplineArcMat, compiling. 
+[2023.09.08-04.45.11:957][ 68]LogMaterial: Warning: D:\Unreal4Project\Content\VirtualReality\Materials\M_SplineArcMat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.09.08-04.45.11:957][ 68]LogMaterial: Display: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2023.09.08-04.45.11:957][ 68]LogMaterial: Display: 	Missing Material Function
+[2023.09.08-04.45.11:959][ 68]LogMaterial: Display: Missing cached shader map for material M_TeleportPreviews, compiling. 
+[2023.09.08-04.45.11:959][ 68]LogMaterial: Warning: D:\Unreal4Project\Content\VirtualReality\Materials\M_TeleportPreviews.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.09.08-04.45.11:959][ 68]LogMaterial: Display: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2023.09.08-04.45.11:960][ 68]LogMaterial: Display: 	Missing Material Function
+[2023.09.08-04.45.11:962][ 68]LogMaterial: Display: Missing cached shader map for material M_TeleportPreviews, compiling. 
+[2023.09.08-04.45.11:962][ 68]LogMaterial: Warning: D:\Unreal4Project\Content\VirtualReality\Materials\M_TeleportPreviews.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.09.08-04.45.11:962][ 68]LogMaterial: Display: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2023.09.08-04.45.11:962][ 68]LogMaterial: Display: 	Missing Material Function
+[2023.09.08-04.45.11:964][ 68]LogMaterial: Display: Missing cached shader map for material M_TeleportPreviews, compiling. 
+[2023.09.08-04.45.11:964][ 68]LogMaterial: Warning: D:\Unreal4Project\Content\VirtualReality\Materials\M_TeleportPreviews.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.09.08-04.45.11:964][ 68]LogMaterial: Display: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2023.09.08-04.45.11:964][ 68]LogMaterial: Display: 	Missing Material Function
+[2023.09.08-04.45.11:966][ 68]LogMaterial: Display: Missing cached shader map for material M_TeleportPreviews, compiling. 
+[2023.09.08-04.45.11:967][ 68]LogMaterial: Warning: D:\Unreal4Project\Content\VirtualReality\Materials\M_TeleportPreviews.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.09.08-04.45.11:967][ 68]LogMaterial: Display: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2023.09.08-04.45.11:967][ 68]LogMaterial: Display: 	Missing Material Function
+[2023.09.08-04.45.11:969][ 68]LogMaterial: Display: Missing cached shader map for material M_TeleportPreviews, compiling. 
+[2023.09.08-04.45.11:969][ 68]LogMaterial: Warning: D:\Unreal4Project\Content\VirtualReality\Materials\M_TeleportPreviews.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.09.08-04.45.11:969][ 68]LogMaterial: Display: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2023.09.08-04.45.11:969][ 68]LogMaterial: Display: 	Missing Material Function
+[2023.09.08-04.45.11:972][ 68]LogMaterial: Display: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2023.09.08-04.45.11:972][ 68]LogMaterial: Warning: D:\Unreal4Project\Content\VirtualReality\Materials\M_ArcEndpoint.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.09.08-04.45.11:972][ 68]LogMaterial: Display: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2023.09.08-04.45.11:972][ 68]LogMaterial: Display: 	Missing Material Function
+[2023.09.08-04.45.11:975][ 68]LogMaterial: Display: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2023.09.08-04.45.11:975][ 68]LogMaterial: Warning: D:\Unreal4Project\Content\VirtualReality\Materials\M_ArcEndpoint.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.09.08-04.45.11:975][ 68]LogMaterial: Display: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2023.09.08-04.45.11:975][ 68]LogMaterial: Display: 	Missing Material Function
+[2023.09.08-04.45.11:977][ 68]LogMaterial: Display: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2023.09.08-04.45.11:977][ 68]LogMaterial: Warning: D:\Unreal4Project\Content\VirtualReality\Materials\M_ArcEndpoint.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.09.08-04.45.11:977][ 68]LogMaterial: Display: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2023.09.08-04.45.11:977][ 68]LogMaterial: Display: 	Missing Material Function
+[2023.09.08-04.45.11:981][ 68]LogMaterial: Display: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2023.09.08-04.45.11:981][ 68]LogMaterial: Warning: D:\Unreal4Project\Content\VirtualReality\Materials\M_ArcEndpoint.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.09.08-04.45.11:981][ 68]LogMaterial: Display: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2023.09.08-04.45.11:981][ 68]LogMaterial: Display: 	Missing Material Function
+[2023.09.08-04.45.11:984][ 68]LogMaterial: Display: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2023.09.08-04.45.11:984][ 68]LogMaterial: Warning: D:\Unreal4Project\Content\VirtualReality\Materials\M_ArcEndpoint.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.09.08-04.45.11:984][ 68]LogMaterial: Display: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2023.09.08-04.45.11:984][ 68]LogMaterial: Display: 	Missing Material Function
+[2023.09.08-04.45.11:991][ 68]LogMaterial: Display: Missing cached shader map for material M_HandMat, compiling. 
+[2023.09.08-04.45.11:991][ 68]LogMaterial: Warning: D:\Unreal4Project\Content\VirtualReality\Mannequin\Character\Materials\M_HandMat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.09.08-04.45.11:991][ 68]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.09.08-04.45.11:991][ 68]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.09.08-04.45.11:994][ 68]LogMaterial: Display: Missing cached shader map for material M_HandMat, compiling. 
+[2023.09.08-04.45.11:994][ 68]LogMaterial: Warning: D:\Unreal4Project\Content\VirtualReality\Mannequin\Character\Materials\M_HandMat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.09.08-04.45.11:994][ 68]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.09.08-04.45.11:994][ 68]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.09.08-04.45.11:996][ 68]LogMaterial: Display: Missing cached shader map for material M_HandMat, compiling. 
+[2023.09.08-04.45.11:996][ 68]LogMaterial: Warning: D:\Unreal4Project\Content\VirtualReality\Mannequin\Character\Materials\M_HandMat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.09.08-04.45.11:996][ 68]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.09.08-04.45.11:996][ 68]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.09.08-04.45.11:998][ 68]LogMaterial: Display: Missing cached shader map for material M_HandMat, compiling. 
+[2023.09.08-04.45.11:998][ 68]LogMaterial: Warning: D:\Unreal4Project\Content\VirtualReality\Mannequin\Character\Materials\M_HandMat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.09.08-04.45.11:998][ 68]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.09.08-04.45.11:998][ 68]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.09.08-04.45.11:999][ 68]LogSkeletalMesh: Building Skeletal Mesh MannequinHand_Right...
+[2023.09.08-04.45.12:005][ 68]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.MannequinHand_Right
+[2023.09.08-04.45.12:046][ 68]LogStaticMesh: GenericHMD 스태틱 메시 빌드중...
+[2023.09.08-04.45.12:070][ 68]LogStaticMesh: Built static mesh [0.02s] /Game/VirtualReality/Meshes/GenericHMD.GenericHMD
+[2023.09.08-04.45.12:077][ 68]LogStaticMesh: Warning: GenericHMD 메시에 거의 0 인 탄젠트가 있어 문제 발생 소지가 있습니다. (허용치 1E-4)
+[2023.09.08-04.45.12:077][ 68]LogStaticMesh: Warning: GenericHMD 메시에 거의 0 인 바이노멀이 있어 문제 발생 소지가 있습니다. (허용치 1E-4)
+[2023.09.08-04.45.12:082][ 68]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.09.08-04.45.12:082][ 68]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: === Critical error: ===
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: 
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: Assertion failed: OwningWorld [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Level.cpp] [Line: 1491] 
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: 
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: 
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: 
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffea9294c3c KERNELBASE.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdd6c2a7b6 UE4Editor-Core.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdd6c2dc58 UE4Editor-Core.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdd69e2c7d UE4Editor-Core.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdd696fd43 UE4Editor-Core.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdd69720c0 UE4Editor-Core.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdc2fd4201 UE4Editor-Engine.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdc2b7590d UE4Editor-Engine.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdc1649223 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdc164682f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdc0e616f7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdc10dcde8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdc10d65c4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdd5321498 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdd5339281 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdd519323f UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdd5219175 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdd520413e UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdd51f8f67 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffe22014ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffe2200242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffe22017195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffe21ffec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffeaaeb8211 USER32.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffeaaeb7cd1 USER32.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffe22018569 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdd5224080 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdd51c1c85 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdc1170fa6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdc163a1ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdb85d876f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdb86db119 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdb86d46bf UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdb863beec UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdb85e2164 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdd5321498 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdd5339281 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdd519323f UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdd5219175 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdd520413e UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffdd51f8f67 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffe22014ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.09.08-04.45.13:435][ 68]LogWindows: Error: [Callstack] 0x00007ffe2200242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.09.08-04.45.13:436][ 68]LogWindows: Error: [Callstack] 0x00007ffe22017195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.09.08-04.45.13:436][ 68]LogWindows: Error: [Callstack] 0x00007ffe21ffec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.09.08-04.45.13:436][ 68]LogWindows: Error: [Callstack] 0x00007ffeaaeb8211 USER32.dll!UnknownFunction []
+[2023.09.08-04.45.13:436][ 68]LogWindows: Error: [Callstack] 0x00007ffeaaeb7cd1 USER32.dll!UnknownFunction []
+[2023.09.08-04.45.13:436][ 68]LogWindows: Error: [Callstack] 0x00007ffe22018699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.09.08-04.45.13:436][ 68]LogWindows: Error: [Callstack] 0x00007ff784ca6db0 UE4Editor.exe!UnknownFunction []
+[2023.09.08-04.45.13:436][ 68]LogWindows: Error: [Callstack] 0x00007ff784cbc3ec UE4Editor.exe!UnknownFunction []
+[2023.09.08-04.45.13:436][ 68]LogWindows: Error: [Callstack] 0x00007ff784cbc4ca UE4Editor.exe!UnknownFunction []
+[2023.09.08-04.45.13:436][ 68]LogWindows: Error: [Callstack] 0x00007ff784ccceae UE4Editor.exe!UnknownFunction []
+[2023.09.08-04.45.13:436][ 68]LogWindows: Error: [Callstack] 0x00007ff784ccfcbe UE4Editor.exe!UnknownFunction []
+[2023.09.08-04.45.13:436][ 68]LogWindows: Error: [Callstack] 0x00007ffea9c626ad KERNEL32.DLL!UnknownFunction []
+[2023.09.08-04.45.13:436][ 68]LogWindows: Error: [Callstack] 0x00007ffeabc2aa68 ntdll.dll!UnknownFunction []
+[2023.09.08-04.45.13:436][ 68]LogWindows: Error: 
+[2023.09.08-04.45.13:448][ 68]LogExit: Executing StaticShutdownAfterError
+[2023.09.08-04.45.13:450][ 68]LogWindows: FPlatformMisc::RequestExit(1)
+[2023.09.08-04.45.13:450][ 68]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.09.08-04.45.13:492][ 68]Log file closed, 09/08/23 13:45:13
