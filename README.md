@@ -8,13 +8,13 @@
 
 ![Quiz_0](https://github.com/nunnunnana/Unreal4_Project/assets/99165741/0f74f14b-7bdb-4a96-a2ee-7a7cc4fe11d2)
 
-[!(https://github.com/nunnunnana/Unreal4_Project/assets/99165741/444c0fe6-3505-42d6-8470-778b8d27ae75)](https://blueprintue.com/blueprint/sekq4uq0/)
+[![image](https://github.com/nunnunnana/Unreal4_Project/assets/99165741/444c0fe6-3505-42d6-8470-778b8d27ae75)](https://blueprintue.com/blueprint/sekq4uq0/)
 
-![image](https://github.com/nunnunnana/Unreal4_Project/assets/99165741/444c0fe6-3505-42d6-8470-778b8d27ae75)
+---
 
 https://blueprintue.com/blueprint/sekq4uq0/
 
-<img src="https://github.com/nunnunnana/Unreal4_Project/assets/99165741/d3731af0-cc1b-4380-a9b5-b2c5ba7c0865.png" width="400" height="300"/>
+<img src="https://github.com/nunnunnana/Unreal4_Project/assets/99165741/d3731af0-cc1b-4380-a9b5-b2c5ba7c0865.png" width="400" height="300"/>(https://blueprintue.com/blueprint/sekq4uq0/)
 
 
 <img src="https://github.com/nunnunnana/Unreal4_Project/assets/99165741/9ae5693e-d651-4431-ba84-da5486b07bab.png" width="400" height="200"/>
