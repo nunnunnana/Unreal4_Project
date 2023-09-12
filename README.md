@@ -8,7 +8,9 @@
 
 ![Quiz_0](https://github.com/nunnunnana/Unreal4_Project/assets/99165741/0f74f14b-7bdb-4a96-a2ee-7a7cc4fe11d2)
 
-블루프린트 코드
+- 블루프린트 코드
+
+Cube_Actor
 >https://blueprintue.com/blueprint/sekq4uq0/
 
 - <개발>
@@ -24,8 +26,19 @@
 ---
 - Quiz_1
   - Quiz_0 에서 스페이스를 누르면 다음 타깃으로 넘어가는 기능 추가
-  - BasePawn 액터 생성 
-<img src="https://github.com/nunnunnana/Unreal4_Project/assets/99165741/ceda7b47-6bdf-4638-8769-e5666cd9e8a6.png" width="800" height="400"/>
+
+
+- 블루프린트 코드
+
+Cube_Actor
+>https://blueprintue.com/blueprint/sekq4uq0/](https://blueprintue.com/blueprint/k4xn_fx-/
+
+Quiz_1_Pawn
+>https://blueprintue.com/blueprint/afy4vdvh/
+
+- <개발>
+  - Pawn에서 스페이스를 누르면 Qube 액터에 Next 이벤트 호출
+  - Cube 액터에 Next 이벤트가 호출되면 Is_Move 변수를 True로 변경하고  
 
 
 
