@@ -10,7 +10,7 @@
 
 - 블루프린트 코드
 
-Cube_Actor
+Quiz_0_Cube_Actor
 >https://blueprintue.com/blueprint/sekq4uq0/
 
 - <개발>
@@ -30,7 +30,7 @@ Cube_Actor
 
 - 블루프린트 코드
 
-Cube_Actor
+Quiz_1_Cube_Actor
 >https://blueprintue.com/blueprint/sekq4uq0/](https://blueprintue.com/blueprint/k4xn_fx-/
 
 Quiz_1_Pawn
@@ -38,7 +38,8 @@ Quiz_1_Pawn
 
 - <개발>
   - Pawn에서 스페이스를 누르면 Qube 액터에 Next 이벤트 호출
-  - Cube 액터에 Next 이벤트가 호출되면 Is_Move 변수를 True로 변경하고  
+  - Cube 액터에 Next 이벤트가 호출되면 Is_Move 변수를 True로 변경
+  - Tick 이벤트에서 Is_Move가 True면 Cube 이동 후 Is_Move 변수를 False로 변경
 
 
 
@@ -49,7 +50,26 @@ Quiz_1_Pawn
  
 ![Quiz_2](https://github.com/nunnunnana/Unreal4_Project/assets/99165741/21a4a925-75f1-4186-b916-d903ec15e32d)
 
+- 블루프린트 코드
 
+Quiz_2_Cube_Actor
+>https://blueprintue.com/blueprint/sekq4uq0/](https://blueprintue.com/blueprint/k4xn_fx-/](https://blueprintue.com/blueprint/keccg8dj/
+
+Quiz_2_Widget
+>https://blueprintue.com/blueprint/afy4vdvh/](https://blueprintue.com/blueprint/5spq9cwf/
+
+Quiz_2_Pawn
+>https://blueprintue.com/blueprint/1rgd172y/
+
+- <개발>
+  - Pawn에서 시작시 위젯 생성
+  - 위젯에서 GetActorOfClass로 Cube 액터를 찾아서 변수 설정 후 위젯 입력에 따라서 Cube 액터 이벤트 호출
+  - Target은 배열로 만들고 시작할 때 인덱스 설정
+  - Cube 액터에서 위젯에 입력 받은 Index가 Target_Lengh보다 작고 Current_Target이 현재 Target index가 아닐때
+  현재 Target을 Current Target 으로 바꾸고 Current_Target의 위치와 Cube의 위치를 빼고 정규화해서 방향 벡터를 구함
+  - Cube 액터에 Tick 이벤트에서 현재 위치와 Current_Target의 거리가 5 이하이면 Direction 방향으로 Move_Speed만큼 이동
+
+ 
 
 
 ***
