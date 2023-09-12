@@ -53,7 +53,7 @@ Quiz_1_Pawn
 - 블루프린트 코드
 
 Quiz_2_Cube_Actor
->https://blueprintue.com/blueprint/sekq4uq0/](https://blueprintue.com/blueprint/k4xn_fx-/](https://blueprintue.com/blueprint/keccg8dj/
+>https://blueprintue.com/blueprint/k4xn_fx-/](https://blueprintue.com/blueprint/keccg8dj/
 
 Quiz_2_Widget
 >https://blueprintue.com/blueprint/afy4vdvh/](https://blueprintue.com/blueprint/5spq9cwf/
