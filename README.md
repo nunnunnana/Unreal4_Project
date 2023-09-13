@@ -81,16 +81,21 @@ Quiz_2_Pawn
 
 - 블루프린트 코드
 
-Quiz_1_Cube_Actor
->https://blueprintue.com/blueprint/k4xn_fx-/
+Quiz_3_Target_1
+>https://blueprintue.com/blueprint/p1b47ro0/
 
-Quiz_1_Pawn
->https://blueprintue.com/blueprint/afy4vdvh/
+Quiz_3_Pawn
+>https://blueprintue.com/blueprint/maj9ee4t/
+
+Quiz_3_Widget
+>https://blueprintue.com/blueprint/l1hxbi60/
 
 - <개발>
-  - Pawn에 Sphere Collision을 생성한 후 Collision과 오버랩되면 타겟 액터의 색과 위젯의 색을 변경
-  - Cube 액터에 Next 이벤트가 호출되면 Is_Move 변수를 True로 변경
-  - Tick 이벤트에서 Is_Move가 True면 Cube 이동 후 Is_Move 변수를 False로 변경
+  - Target 액터는 시작하면 선택한 색상으로 설정
+  - 위젯 액터에서 Pawn의 Current_Color 변수를 가져온 뒤 Image 변수에 Set Color로 적용
+  - Pawn에 Sphere Collision을 생성한 후 Collision과 오버랩되면 Target 액터의 Color 변수를 가져와서 Current_Color에 적용 후 
+  위젯의 Image 변수의 Color를 가져와서 Target 액터 Color에 적용
+
 
 
 ---
