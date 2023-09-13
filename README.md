@@ -105,11 +105,24 @@ Quiz_3_Widget
 
 ![Quiz_3_1](https://github.com/nunnunnana/Unreal4_Project/assets/99165741/d516ce35-ebeb-4dc3-a439-dff3c12369af)
 
-<img src="https://github.com/nunnunnana/Unreal4_Project/assets/99165741/950968a0-0c4e-4930-ba5c-ab36d7e7867b.png" width="1200" height="700"/>
+- 블루프린트 코드
 
-키보드 숫자 1, 2, 3, 4로 색상 변경하고 마우스 클릭하면 LineTrace에 검출된 Actor에 선택한 색상의 Sphere를 생성
+Quiz_3_1_Sphere
+>https://blueprintue.com/blueprint/g4ut8wvj/
 
-만약 같은 색상에 Sphere이면 크기 증가
+Quiz_3_1_Pawn
+>https://blueprintue.com/blueprint/d3z42p31/
+
+Quiz_3_1_Widget
+>https://blueprintue.com/blueprint/th7oxeon/
+
+- <개발>
+  - Widget의 Image(십자선) 색상을 Pawn의 Set_Sphere_Color 변수 색상으로 변경
+  - Sphere 액터는 입력 값으로 Sphere_Color의 색상을 받고 Color 설정하는 이벤트 추가
+  및 입력 값으로 받은 Target_Color와 Color의 색상이 같으면 크기 증가, 다르면 감소하는 이벤트 추가
+  - Pawn 액터에서 마우스 왼쪽 클릭을 누르면 Camera에서 Distance 만큼의 LineTrace 생성하고 Spawn 이벤트 호출
+  - LineTrace에 검출된 Actor가 Sphere이면 Sphere 스케일 변경 만약 Sphere가 아니면 Sphere 생성
+  - 키보드 1, 2, 3, 4로 Set_Sphere_Color 변수의 색상 설정
 
 
 
