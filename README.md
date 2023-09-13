@@ -79,10 +79,18 @@ Quiz_2_Pawn
 
 ![Quiz_3](https://github.com/nunnunnana/Unreal4_Project/assets/99165741/d25fac35-e7b6-4a1e-9e79-bd9f13c72da2)
 
-<img src="https://github.com/nunnunnana/Unreal4_Project/assets/99165741/64ac9817-428e-44c9-a8b6-1ae0552907b9.png" width="800" height="400"/>
+- 블루프린트 코드
 
-Pawn에 Sphere Collision을 생성한 후 Collision과 오버랩되면 타겟 액터의 색과 위젯의 색을 변경
+Quiz_1_Cube_Actor
+>https://blueprintue.com/blueprint/k4xn_fx-/
 
+Quiz_1_Pawn
+>https://blueprintue.com/blueprint/afy4vdvh/
+
+- <개발>
+  - Pawn에 Sphere Collision을 생성한 후 Collision과 오버랩되면 타겟 액터의 색과 위젯의 색을 변경
+  - Cube 액터에 Next 이벤트가 호출되면 Is_Move 변수를 True로 변경
+  - Tick 이벤트에서 Is_Move가 True면 Cube 이동 후 Is_Move 변수를 False로 변경
 
 
 ---
