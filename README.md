@@ -139,3 +139,65 @@ Quiz_3_1_Widget
 Pawn에 Sphere Collision을 생성한 후 Collision과 오버랩된 액터를 전부 흰색으로 변경
 
 오버랩된 액터중에 가장 가까운 액터를 찾아 검정색으로 변환
+
+
+
+
+***
+## 3. 레이저 포인터 시뮬레이션
+- Quiz_5
+  - 카메라가 바라보는 방향으로 Sphere 이동
+
+![Quiz_5 플레이 영상](https://github.com/nunnunnana/Unreal4_Project/assets/99165741/eec37625-1c05-49a3-b27b-0c0ecd98343b)
+
+- 블루프린트 코드
+
+Quiz_5_Pawn
+>https://blueprintue.com/blueprint/h6-2cwx2/
+
+- <개발>
+  - Target 액터는 시작하면 선택한 색상으로 설정
+  - 위젯 액터에서 Pawn의 Current_Color 변수를 가져온 뒤 Image 변수에 Set Color로 적용
+  - Pawn에 Sphere Collision을 생성한 후 Collision과 오버랩되면 Target 액터의 Color 변수를 가져와서 Current_Color에 적용 후 
+  위젯의 Image 변수의 Color를 가져와서 Target 액터 Color에 적용
+
+
+
+***
+## 4. 얼불춤 시뮬레이션
+- Quiz_6
+  - 스페이스바를 누르면 회전하는 주체 변경
+
+![Quiz_6 플레이 영상](https://github.com/nunnunnana/Unreal4_Project/assets/99165741/d333b059-857a-49e5-ba67-ce5b92127db0)
+
+- 블루프린트 코드
+
+Quiz_6_Pawn
+>https://blueprintue.com/blueprint/h6-2cwx2/
+
+- <개발>
+  - Target 액터는 시작하면 선택한 색상으로 설정
+  - 위젯 액터에서 Pawn의 Current_Color 변수를 가져온 뒤 Image 변수에 Set Color로 적용
+  - Pawn에 Sphere Collision을 생성한 후 Collision과 오버랩되면 Target 액터의 Color 변수를 가져와서 Current_Color에 적용 후 
+  위젯의 Image 변수의 Color를 가져와서 Target 액터 Color에 적용
+
+
+
+***
+## 5. 아이템 획득 시뮬레이션
+- Quiz_6_1
+  - Pawn에 있는 Sphere와 오버랩된 큐브는 Pawn으로 빨려들어감
+  - 큐브의 색상마다 화면에 다른 메시지 출력
+
+![Quiz_6_1 플레이 영상](https://github.com/nunnunnana/Unreal4_Project/assets/99165741/59121af2-c090-4934-bdc7-0e3972abcce3)
+
+- 블루프린트 코드
+
+Quiz_6_1_Pawn
+>https://blueprintue.com/blueprint/h6-2cwx2/
+
+- <개발>
+  - Target 액터는 시작하면 선택한 색상으로 설정
+  - 위젯 액터에서 Pawn의 Current_Color 변수를 가져온 뒤 Image 변수에 Set Color로 적용
+  - Pawn에 Sphere Collision을 생성한 후 Collision과 오버랩되면 Target 액터의 Color 변수를 가져와서 Current_Color에 적용 후 
+  위젯의 Image 변수의 Color를 가져와서 Target 액터 Color에 적용
