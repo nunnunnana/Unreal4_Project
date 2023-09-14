@@ -181,14 +181,16 @@ Quiz_5_Pawn
 
 - 블루프린트 코드
 
-Quiz_6_Pawn
->https://blueprintue.com/blueprint/h6-2cwx2/
+Quiz_6_Actor_1
+>https://blueprintue.com/blueprint/qk_vtkzb/
+
+Quiz_6_Pawn_1
+>https://blueprintue.com/blueprint/drrmidz0/
 
 - <개발>
-  - Target 액터는 시작하면 선택한 색상으로 설정
-  - 위젯 액터에서 Pawn의 Current_Color 변수를 가져온 뒤 Image 변수에 Set Color로 적용
-  - Pawn에 Sphere Collision을 생성한 후 Collision과 오버랩되면 Target 액터의 Color 변수를 가져와서 Current_Color에 적용 후 
-  위젯의 Image 변수의 Color를 가져와서 Target 액터 Color에 적용
+  - 스페이스바를 누르면 Quiz_6_Actor_1 액터의 Change_Sphere 이벤트 실행
+  - Change_Sphere 이벤트가 호출될 때 마다 Target과 Parent를 변경
+  - Bool 변수의 값에 따라 회전하는 Sphere가 다름
 
 
 
@@ -202,11 +204,17 @@ Quiz_6_Pawn
 
 - 블루프린트 코드
 
-Quiz_6_1_Pawn
->https://blueprintue.com/blueprint/h6-2cwx2/
+Quiz_6_Actor_2
+>https://blueprintue.com/blueprint/_r-uo5bv/
+
+>Quiz_6_Pawn_2
+>https://blueprintue.com/blueprint/4o39-4fu/
+
+>Quiz_6_Widget
+>https://blueprintue.com/blueprint/wvz5lo1a/
 
 - <개발>
-  - Target 액터는 시작하면 선택한 색상으로 설정
-  - 위젯 액터에서 Pawn의 Current_Color 변수를 가져온 뒤 Image 변수에 Set Color로 적용
-  - Pawn에 Sphere Collision을 생성한 후 Collision과 오버랩되면 Target 액터의 Color 변수를 가져와서 Current_Color에 적용 후 
-  위젯의 Image 변수의 Color를 가져와서 Target 액터 Color에 적용
+  - Pawn에 Sphere Collision을 추가하고 Overlap된 Actor의 위치를 Pawn으로 변경
+  - Pawn과 Actor의 위치가 같아지면 Actor의 Color를 Widget에 보내고 DestroyActor 실행
+  - 위젯 액터에서 Pawn에서 넘겨받은 Name과 Color를 Widget Text에 출력하고 2초 뒤 Text를 지움
+  - Quiz_6_Actor_2는 Color 배열을 만들고 랜덤 값으로 배열의 index 설정, 각 색상에 맞는 Color와 Text 설정
