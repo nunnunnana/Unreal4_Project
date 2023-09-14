@@ -134,11 +134,20 @@ Quiz_3_1_Widget
 
 ![Quiz_4](https://github.com/nunnunnana/Unreal4_Project/assets/99165741/391e2da1-5796-421a-a902-3f73eee37ec0)
 
-<img src="https://github.com/nunnunnana/Unreal4_Project/assets/99165741/aa7179ef-bf1c-4c1f-82ae-6b3f4e0c35c0.png" width="1200" height="300"/>
+- 블루프린트 코드
 
-Pawn에 Sphere Collision을 생성한 후 Collision과 오버랩된 액터를 전부 흰색으로 변경
+Color_Sphere_Actor
+>https://blueprintue.com/blueprint/pryewj-z/
 
-오버랩된 액터중에 가장 가까운 액터를 찾아 검정색으로 변환
+Quiz_4_Pawn
+>https://blueprintue.com/blueprint/93nw10fc/
+
+- <개발>
+  - Color_Sphere 액터는 White, Black, 기본색을 설정하는 이벤트 추가
+  - Pawn에 Sphere Collision을 생성한 후 Collision과 오버랩되면 FindNearestActor 함수 실행
+  - Overlap된 액터를 For문으로 전부 흰색으로 변경한 뒤 Actor의 위치와 Sphere_Collision의 거리가 가장 작은 액터를 찾아 반환
+  - Sphere와 가까운 액터를 찾아서 검정색으로 변경
+
 
 
 
