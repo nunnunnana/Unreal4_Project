@@ -165,10 +165,10 @@ Quiz_5_Pawn
 >https://blueprintue.com/blueprint/h6-2cwx2/
 
 - <개발>
-  - Target 액터는 시작하면 선택한 색상으로 설정
-  - 위젯 액터에서 Pawn의 Current_Color 변수를 가져온 뒤 Image 변수에 Set Color로 적용
-  - Pawn에 Sphere Collision을 생성한 후 Collision과 오버랩되면 Target 액터의 Color 변수를 가져와서 Current_Color에 적용 후 
-  위젯의 Image 변수의 Color를 가져와서 Target 액터 Color에 적용
+  - 시작시 LineTrace에 Hit된 위치에 Actor Spawn
+  - 카메라의 위치로 부터 Distance 만큼 LineTrace 생성
+  - LineTrace에 Hit가 되면 해당 위치에 Sphere_Actor 이동, 만약 Hit가 안되면 Scene 위치에 Sphere_Actor 이동
+  - Sphere_Actor가 이동할 때 현재 위치에서 도착 위치까지 부드럽게 변경
 
 
 
