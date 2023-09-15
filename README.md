@@ -207,10 +207,10 @@ Quiz_6_Pawn_1
 Quiz_6_Actor_2
 >https://blueprintue.com/blueprint/_r-uo5bv/
 
->Quiz_6_Pawn_2
+Quiz_6_Pawn_2
 >https://blueprintue.com/blueprint/4o39-4fu/
 
->Quiz_6_Widget
+Quiz_6_Widget
 >https://blueprintue.com/blueprint/wvz5lo1a/
 
 - <개발>
